@@ -28,7 +28,7 @@
 
 <!-- 第 1 页 -->
 [1] Khí-thâu kâi sî-hāu Siãng-tì tshàng-tsãu thiⁿ kuã tī.
-<!-- 起头其时候，上帝创造天和地。 （注：kuã 暂作 和，或为 凡。）-->
+<!-- 起头其时候，上帝创造天和地。 （注：kuã 暂作 和，或与 凡 读 huăm/hăm 之类相关？）-->
 [2] Tī sĩ khang-hṳ hũn-tũn; chhim-uan kâi mīn-chiēⁿ sĩ ou-àm; Siãng-tì kâi Sîn pū tõ chèng-tsúi kâi mīn-chiēⁿ.
 <!-- 地是空虚混沌，深渊其面上是乌暗；上帝其神伏著众水其面上。 -->
 
