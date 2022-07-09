@@ -27,7 +27,7 @@
 ---
 
 <!-- 第 1 页 -->
-[1] Khí-thâu kâi si-hāu Siãng-tì tshàng-tsãu thiⁿ kuã tī.
+[1] Khí-thâu kâi sî-hāu Siãng-tì tshàng-tsãu thiⁿ kuã tī.
 <!-- 起头其时候，上帝创造天和地。 （注：kuã 暂作 和，或为 凡。）-->
 [2] Tī sĩ khang-hṳ hũn-tũn; chhim-uan kâi mīn-chiēⁿ sĩ ou-àm; Siãng-tì kâi Sîn pū tõ chèng-tsúi kâi mīn-chiēⁿ.
 <!-- 地是空虚混沌，深渊其面上是乌暗；上帝其神伏著众水其面上。 -->
@@ -35,7 +35,7 @@
 [3] Siãng-tì chiũ tàⁿ, Tie̍h-ũ kng; chiũ ũ kng.
 <!-- 上帝就呾，着有光，就有光。 （注：tàⁿ 俗写为 呾。）-->
 [4] Siãng-tì thóiⁿ-tie̍h chí-kâi-kng sĩ hó; Siãng-tì chiũ pie̍t-khui kng kuã àm.
-<!-- 上帝睇着这个光是好；上帝就捌开光和暗。 -->
+<!-- 上帝睇着这个光是好；上帝就捌开光和暗。 （注：thóiⁿ 俗写为 睇。） --> 
 [5] Siãng-tì chheng kng tsò Ji̍t--kan, àm chheng-tsò Mê--kan. Ũ mê-hng ũ mn̂g-khí, chiũ-sĩ che̍k-ji̍t.
 <!-- 上帝称光作日间，暗称作冥间。有冥昏，有眠起，就是蜀日。 -->
 
@@ -50,17 +50,17 @@
 [9] Siãng-tì tàⁿ, Thiⁿ-ẽ chèng-tsúi tie̍h tsũ-huẽ tõ che̍k-kâi ūi-tshṳ̀, le̍k-ti tie̍h hién-hīn; chiũ ũ chièⁿ-seⁿ.
 <!-- 上帝呾，天下众水着聚汇著蜀个位处，陆地着显现；就有障生。 （注：处 与 tshṳ̀ 读音不甚对应。）-->
 [10] Siãng-tì chheng le̍k-tī tsò Thóu-tī; tsũ-huẽ kâi tsúi chheng-tsò Hái; Siãng-tì thóiⁿ-tie̍h sĩ hó.
-<!-- 上帝称陆地作土地；聚汇其水称作海；上帝看着是好。-->
+<!-- 上帝称陆地作土地；聚汇其水称作海；上帝睇着是好。-->
 [11] Siãng-tì tàⁿ, Tī tie̍h seⁿ-tsháu, tshài-so kit-chí, kuéⁿ-chí-chhiū seⁿ-kuéⁿ kak tshông-khî-lūi, hṳ́-tói pau-hu̍t, tõ-tī-chiēⁿ; chiũ ũ chièⁿ-seⁿ.
 <!-- 上帝呾，地着生草，菜蔬结籽，果子树生果各从其类，许底包核，著地上；就有障生。 -->
 [12] Tī chiũ huat-tsháu, kuã õi-kit-chí kâi tshài-so, kuã õi-seⁿ-kuéⁿ kâi chhiū, hṳ́-tói pau-hu̍t, kak tshông-khî-lūi; Siãng-tì thóiⁿ-tie̍h sĩ hó.
-<!-- 地就发草，和会（解）结籽其菜蔬，和会生果其树，许底包核，各从其类；上帝看着是好。 -->
+<!-- 地就发草，和会（解）结籽其菜蔬，和会生果其树，许底包核，各从其类；上帝睇着是好。 -->
 [13] Ũ mê-hng ũ mn̂g-khí, chiũ-sĩ tõiⁿ-saⁿ-ji̍t.
 <!-- 有冥昏，有眠起，就是第三日。-->
 
 [14] Siãng-tì tàⁿ, Thiⁿ-tang kâi kiong-tshan tie̍h-ũ tsuàⁿ-kâi-kng lâi-hun-pie̍t ji̍t-mê; lâi-tsò kì-hō, lâi tiāⁿ-sì-sî, lâi-kì nîⁿ-ji̍t;
 <!-- 注：原文 lâi-hun-piet ji̍t-mê，其中 piet 为印刷错误，上句已更正。 -->
-<!-- 上帝呾，天中其穹苍着有 tsuàⁿ 个光来分别日冥；来作记号，来定四时，来记年日； -->
+<!-- 上帝呾，天中其穹苍着有 tsuàⁿ（*这些*） 个光来分别日冥；来作记号，来定四时，来记年日； -->
 <!-- 第 3 页 -->
 [15] lâi-tsò-kng tõ thiⁿ-tang kâi kiong-tshan chiè-kng tõ-tī-chiēⁿ; chiũ ũ chièⁿ-seⁿ.
 <!-- 来作光著天中其穹苍照光在地上；就有障生。 -->
@@ -70,6 +70,6 @@
 [17] Siãng-tì pàng-i tõ thiⁿ-tang kâi kiong-tshan lâi-chiè-kng tõ-tī-chiēⁿ,
 <!-- 上帝放伊著天中其穹苍来照光在地上， --> 
 [18] lâi-kuán-lí ji̍t kuã mê, lâi-hun-pie̍t kng kuã àm; Siãng-tì thóiⁿ-tie̍h sĩ hó.
-<!-- 来管理日和冥，来分别光和暗；上帝看着是好。 -->
-[19] Ũ me-hng ũ mn̂g-khí, chiũ-sĩ tõiⁿ-sì-ji̍t.
+<!-- 来管理日和冥，来分别光和暗；上帝睇着是好。 -->
+[19] Ũ mê-hng ũ mn̂g-khí, chiũ-sĩ tõiⁿ-sì-ji̍t.
 <!-- 有冥昏，有眠起，就是第四日。 -->
