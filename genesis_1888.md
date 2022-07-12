@@ -103,3 +103,35 @@ Thiⁿ kuã tī kuã i kâi khûn-lūi chiũ tsò-chiâⁿ.
 [3] Siãng-tì hṳ́-hok tõ tõiⁿ-chhit-ji̍t, tiāⁿ-tsò siàⁿ-ji̍t; in-ũi hṳ́-ji̍t Siãng-tì pàng-hiah che̍k-khài só-tshàng-tsãu tsò-sêng kâi kang, chiũ an-sek.
 
 <!-- 第 6 页 -->
+[4] Iâ-hô-huâ Siãng-tì tsõ thiⁿ kuã tī kâi sî-hāu, i siũ-tsãu kâi nguân-iû chiũ-sĩ chièⁿ-seⁿ.
+<!-- 注：上句中 tsõ 疑为印刷错误，估计为 tsò 。 -->
+[5] Tī-chiēⁿ buē-ũ kak-iēⁿ iá-tsháu, kak-iēⁿ kâi tshài-so iā buē-ũ-huat; in-ũi Iâ-hô-huâ Siãng-tì bô lo̍h-hõu tõ tī-mīn, pẽng bô-nâng keⁿ-tsoh;
+[6] chiũ ũ bū tshông-tī khí, lâi zũn-che̍k muáⁿ-pìn thôu-mīn.
+
+[7] Iâ-hô-huâ Siãng-tì chiũ nia̍p tī-kâi-thôu tsò-nâng, hoh ua̍h-khì ji̍p i-kâi phīⁿ-khang; chí-kâi-nâng chiũ lêng-ua̍h.
+
+[8] Iâ-hô-huâ Siãng-tì chèng-hn̂g tõ Ai-thiên, tõ tang-pôiⁿ; uaⁿ-tùn só-tsò kâi nâng tõ--hṳ́-kò.
+[9] Iâ-hô-huâ Siãng-tì sái kak-iēⁿ hó-thóiⁿ kuã hó-chia̍h kâi chhiū-ba̍k tshông tõ thôu-tī huat-seⁿ; kuã seⁿ-miāⁿ-chhiū tõ-hn̂g tìn-tang, kuã tsai-siẽn-ak kâi chhiū.
+[10] Ũ hô tõ Ai-thiên lâu-tshut lâi-kuàn chí-kâi-hn̂g; ãu, tshông tõ-hṳ́-kò pun tsò sì-tiâu.
+<!-- 第 7 页 -->
+[11] Tõiⁿ-it, miâⁿ Pí-sùn; chí-kâi chiũ lâu-ûi tõ Ha̍h-hui-la̍h tshuân-tī, tshṳ́-tī tshut-kim;
+[12] chí-kâi tī-hng kâi kim sĩ hó; iā tshut chin-tsu múi-ge̍k.
+<!-- 注：录入至此，个人感觉 “甚（sĩm）” 在此书中基本变为 “sĩ”。 -->
+[13] Tõiⁿ-jī-hô miâⁿ Khî-hùn; chí-kâi chiũ-sĩ lâu-ûi tõ Kú-si̍t kâi tshuân-tī.
+[14] Tõiⁿ-saⁿ-hô miâⁿ Hi-tí-kiet; chí-kâi chiũ lâu tõ A-su̍t tsôiⁿ. Tõiⁿ-sì-hô chiũ-sĩ Pek-lua̍t.
+
+[15] Iâ-hô-huâ Siãng-tì chiũ chiang chí-kâi-nâng uaⁿ-tùn tõ Ai-thiên hn̂g, sái i chèng-tsoh thóiⁿ-siú.
+[16] Iâ-hô-huâ Siãng-tì mẽng chí-kâi-nâng, tàⁿ, Huâm hn̂g--tang kâi chhiū só-tshut--kâi lṳ́ àiⁿ-chia̍h chiũ-chia̍h;
+[17] nā-sĩ tsai-siẽn-ak kâi chhiū, chí-kâi lṳ́ chiũ m̄-hó-chia̍h; in-ũi lṳ́ chia̍h chí-kâi, hṳ́-ji̍t lṳ́ pit sí-buâng.
+[18] Iâ-hô-huâ Siãng-tì chiũ tàⁿ, M̄-hó chí-kâi-nâng tuaⁿ-sin; uá àiⁿ kāng i tsò kâi tùi-thīn kāng i siang-pang.
+<!-- 第 8 页 -->
+[19] Iâ-hô-huâ Siãng-tì nia̍p-thôu tsò kak-iēⁿ siù-thiok, huâm thiⁿ-tang kâi pue-chiáu; tuà i kàu chí-kâi-nâng--kò thóiⁿ i àiⁿ kiè i sĩ-mih-miâⁿ; chí-kâi-nâng só-kiè kak-iēⁿ kâi ua̍h-mue̍h, chí-kâi chiũ tsò i-kâi-miâⁿ.
+[20] Chí-kâi-nâng chiũ chiang lóng-tsóng cheng-seⁿ, kuã thiⁿ-tang kâi pue-chiáu, kuã chèng iá-siù kak-kak kāng i tsò-miâⁿ; nā-sĩ tshuē bô kāng chí-kâi-nâng tùi-thīn siang-pang.
+
+[21] Iâ-hô-huâ Siãng-tì chiũ sái chí-kâi-nâng hun-tsùi chiũ u̍t--khṳ̀; chiũ tshú i phiaⁿ-lî-kut che̍k-ki, hṳ́-kâi-ūi ne̍k chiũ ha̍p-buâ;
+[22] Iâ-hô-huâ Siãng-tì chiang só-tshú chí-kâi-nâng kâi phiaⁿ-lî-kut, tsò-sêng nńg-nâng, tuà-i kàu chí-kâi-nâng--kò.
+[23] Chí-kâi-nâng chiũ tàⁿ, Chí-pái sĩ uá kut--tang kâi kut, ne̍k--tang kâi ne̍k; chí-kâi pit-tiāⁿ kiè-tsò Nńg-nâng, in-ũi tshông Nâm-nâng tshú--tshut-lâi.
+[24] Kù-tshṳ́ nâng hó lī-khui i-kâi-pẽ kuã i-kâi-bó, ka-tshat i kâi-chhi; nõ-nâng chiũ sêng che̍k-thói.
+<!-- 注：上句中 ka-tshat 疑为 kau-tshap 。 -->
+<!-- 第 9 页 -->
+[25] Chí-kâi-nâng kuã i-kâi-chhi nõ-nâng chhiah-sin, iā m̄-tsai siáu-lí.
