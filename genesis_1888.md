@@ -162,7 +162,7 @@ Tsuâ chiũ tùi hũ-jîn tàⁿ, Õ! Siãng-tì khá-ũ-tàⁿ, Hn�
 [10] I chiũ tàⁿ, Uá tõ-hn̂g--kò thiaⁿ-kìⁿ lṳ́-kâi-siaⁿ, in-ũi uá chhiah-sin chiũ kiaⁿ-kũ; kù-tshṳ́ chiũ tiàm-buâ.
 <!-- 伊就呾，我著园地听见汝其声，因为我赤身就惊惧；故此就垫摩。 -->
 [11] I chiũ tàⁿ, Tî-tiâng kāng-lṳ́ tàⁿ lṳ́ chhiah-sin, né? Uá mẽng lṳ́ m̄-hó-chia̍h kâi chhiū-kuéⁿ, lṳ́ ũ chia̍h, mé?
-<!-- 伊就呾，底底侬共汝呾赤身，呢？我命汝毋好食其树果，汝有食，么？ -->
+<!-- 伊就呾，底底侬共汝呾汝赤身，呢？我命汝毋好食其树果，汝有食，么？ -->
 [12] A-tang chiũ tàⁿ, Chí-kâi hũ-jîn, lṳ́ phuè-pun uá, i pun uá chhiū-kuéⁿ; uá chiũ chia̍h.
 <!-- 亚当就呾，这个妇人，汝配分我，伊分我树果；我就食。 -->
 [13] Siãng-tì Iâ-hô-huâ chiũ mn̄g hũ-jîn, tàⁿ, Lṳ́ só-tsò--kâi, sĩ sĩ-mih-sṳ̄, né? Hũ-jîn chiũ tàⁿ, Tsuâ phièn uá, uá chiũ chia̍h.
@@ -170,7 +170,7 @@ Tsuâ chiũ tùi hũ-jîn tàⁿ, Õ! Siãng-tì khá-ũ-tàⁿ, Hn�
 
 <!-- 第 11 页 -->
 [14] Siãng-tì Iâ-hô-huâ chiũ tùi tsuâ tàⁿ, In-ũi lṳ́ tsò chí-kâi-sṳ̄, lṳ́ pí lóng-tsóng cheng-seⁿ, chèng iá-siù, pit-tiāⁿ zú-kèng siũ-chiù.
-[15] Lṳ́ kâiⁿ pit-tie̍h ēng-tóu so, chia̍h-thôu-êng chĩn lṳ́ che̍k-seⁿ; uá sái lṳ́ kuã hũ-jîn siang uàn-hṳ̃n, íⁿ-ki̍p i kâi chéng-tsa̍k kuã lṳ́-kâi chéng-tsa̍k, i chiang-àiⁿ tng-hāi lṳ́-kâi-thâu, lṳ́ chiang-àiⁿ tng-hāi i-kâi kha-teⁿ.
+[15] Lṳ́ kiâⁿ pit-tie̍h ēng-tóu so, chia̍h-thôu-êng chĩn lṳ́ che̍k-seⁿ; uá sái lṳ́ kuã hũ-jîn siang uàn-hṳ̃n, íⁿ-ki̍p i kâi chéng-tsa̍k kuã lṳ́-kâi chéng-tsa̍k, i chiang-àiⁿ tng-hāi lṳ́-kâi-thâu, lṳ́ chiang-àiⁿ tng-hāi i-kâi kha-teⁿ.
 <!-- 注：tng-hāi 此词不曾听过，当害？ -->
 
 [16] Tùi hũ-jîn tàⁿ, Uá àiⁿ sái lṳ́ siũ-tho kia-puẽ kan-lân; seⁿ-kiáⁿ lâu-khóu; lṳ́ chiũ kù-hiàng lṳ́-kâi-hu, i chiũ tsò lṳ́-kâi-tsú.
