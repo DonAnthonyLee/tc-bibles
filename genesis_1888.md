@@ -30,14 +30,14 @@
 ## 1
 
 Khí-thâu kâi sî-hāu Siãng-tì tshàng-tsãu thiⁿ kuã tī.
-<!-- 起头其时候，上帝创造天和地。 （注：kuã 暂作 和，或与 凡 读 huăm/hăm 之类相关？）-->
+<!-- 起头其时候，上帝创造天和地。 （注：kuã 暂作 和，或与 凡 读 huãm/hãm 之类相关？）-->
 [2] Tī sĩ khang-hṳ hũn-tũn; chhim-uan kâi mīn-chiēⁿ sĩ ou-àm; Siãng-tì kâi Sîn pū tõ chèng-tsúi kâi mīn-chiēⁿ.
 <!-- 地是空虚混沌，深渊其面上是乌暗；上帝其神伏著众水其面上。 -->
 
 [3] Siãng-tì chiũ tàⁿ, Tie̍h-ũ kng; chiũ ũ kng.
 <!-- 上帝就呾，着有光，就有光。 （注：tàⁿ 俗写为 呾。）-->
 [4] Siãng-tì thóiⁿ-tie̍h chí-kâi-kng sĩ hó; Siãng-tì chiũ pie̍t-khui kng kuã àm.
-<!-- 上帝睇着这个光是好；上帝就捌开光和暗。 （注：thóiⁿ 俗写为 睇。） --> 
+<!-- 上帝睇着这个光是（甚？）好；上帝就捌开光和暗。 （注：thóiⁿ 俗写为 睇。） --> 
 [5] Siãng-tì chheng kng tsò Ji̍t--kan, àm chheng-tsò Mê--kan. Ũ mê-hng ũ mn̂g-khí, chiũ-sĩ che̍k-ji̍t.
 <!-- 上帝称光作日间，暗称作冥间。有冥昏，有眠起，就是蜀日。 -->
 
@@ -52,11 +52,11 @@ Khí-thâu kâi sî-hāu Siãng-tì tshàng-tsãu thiⁿ kuã tī.
 [9] Siãng-tì tàⁿ, Thiⁿ-ẽ chèng-tsúi tie̍h tsũ-huẽ tõ che̍k-kâi ūi-tshṳ̀, le̍k-tī tie̍h hién-hīn; chiũ ũ chièⁿ-seⁿ.
 <!-- 上帝呾，天下众水着聚汇著蜀个位处，陆地着显现；就有障生。 （注：处 与 tshṳ̀ 读音不甚对应。）-->
 [10] Siãng-tì chheng le̍k-tī tsò Thóu-tī; tsũ-huẽ kâi tsúi chheng-tsò Hái; Siãng-tì thóiⁿ-tie̍h sĩ hó.
-<!-- 上帝称陆地作土地；聚汇其水称作海；上帝睇着是好。-->
+<!-- 上帝称陆地作土地；聚汇其水称作海；上帝睇着是（甚？）好。-->
 [11] Siãng-tì tàⁿ, Tī tie̍h seⁿ-tsháu, tshài-so kit-chí, kuéⁿ-chí-chhiū seⁿ-kuéⁿ kak tshông-khî-lūi, hṳ́-tói pau-hu̍t, tõ-tī-chiēⁿ; chiũ ũ chièⁿ-seⁿ.
 <!-- 上帝呾，地着生草，菜蔬结籽，果子树生果各从其类，许底包核，著地上；就有障生。 -->
 [12] Tī chiũ huat-tsháu, kuã õi-kit-chí kâi tshài-so, kuã õi-seⁿ-kuéⁿ kâi chhiū, hṳ́-tói pau-hu̍t, kak tshông-khî-lūi; Siãng-tì thóiⁿ-tie̍h sĩ hó.
-<!-- 地就发草，和会（解）结籽其菜蔬，和会生果其树，许底包核，各从其类；上帝睇着是好。 -->
+<!-- 地就发草，和会（解）结籽其菜蔬，和会生果其树，许底包核，各从其类；上帝睇着是（甚？）好。 -->
 [13] Ũ mê-hng ũ mn̂g-khí, chiũ-sĩ tõiⁿ-saⁿ-ji̍t.
 <!-- 有冥昏，有眠起，就是第三日。-->
 
@@ -72,7 +72,7 @@ Khí-thâu kâi sî-hāu Siãng-tì tshàng-tsãu thiⁿ kuã tī.
 [17] Siãng-tì pàng-i tõ thiⁿ-tang kâi kiong-tshan lâi-chiè-kng tõ-tī-chiēⁿ,
 <!-- 上帝放伊著天中其穹苍来照光在地上， --> 
 [18] lâi-kuán-lí ji̍t kuã mê, lâi-hun-pie̍t kng kuã àm; Siãng-tì thóiⁿ-tie̍h sĩ hó.
-<!-- 来管理日和冥，来分别光和暗；上帝睇着是好。 -->
+<!-- 来管理日和冥，来分别光和暗；上帝睇着是（甚？）好。 -->
 [19] Ũ mê-hng ũ mn̂g-khí, chiũ-sĩ tõiⁿ-sì-ji̍t.
 <!-- 有冥昏，有眠起，就是第四日。 -->
 
@@ -135,3 +135,57 @@ Thiⁿ kuã tī kuã i kâi khûn-lūi chiũ tsò-chiâⁿ.
 <!-- 注：上句中 ka-tshat 疑为 kau-tshap 。 -->
 <!-- 第 9 页 -->
 [25] Chí-kâi-nâng kuã i-kâi-chhi nõ-nâng chhiah-sin, iā m̄-tsai siáu-lí.
+
+## 3
+Iâ-hô-huâ Siãng-tì só-tsò tī-chiēⁿ kâi ua̍h-mue̍h, chiũ-sĩ tsuâ siãng-kan-tsà.
+<!-- 耶和华上帝所做地上其活物，就是蛇上奸诈。 -->
+Tsuâ chiũ tùi hũ-jîn tàⁿ, Õ! Siãng-tì khá-ũ-tàⁿ, Hn̂g--tang kâi peh-chhiū, nín m̄-hó-chia̍h, mé?
+<!-- 蛇就对妇人呾，嗬！上帝岂有呾，园中其百树，恁毋好食，么？（注：nín 俗写为 恁；m̄ 暂作 毋，现多为阳上读法。）-->
+[2] Hũ-jîn chiũ tùi tsuâ tàⁿ, Hn̂g--tang peh-chhiū kâi kuéⁿ-chí ún tou hó-chia̍h;
+<!-- 妇人就对蛇呾，园中百树其果子阮都好食；（注：ún 俗写为 阮。） -->
+[3] to̍k-to̍k tõ-hn̂g tìn-tang hṳ́-tsâng-chhiū kâi kuéⁿ-chí, Siãng-tì ũ tàⁿ, Nín m̄-hó-chia̍h chí-kâi, kuã m̄-hó-thãng chí-kâi, chiũ mién tì-sí.
+<!-- 独独著园正中许丛树其果子，上帝有呾，恁毋好食这个，和毋好动这个，就免致死。 -->
+[4] Tsuâ tùi hũ-jin tàⁿ, Sí, sĩ bõi--sí;
+<!-- 蛇对妇人呾，死，是无会死； -->
+[5] in-ũi Siãng-tì tsai nín chia̍h tsṳ ji̍t, íⁿ-ãu nín-kâi-ma̍k chiũ khui, nín chiũ chhin-chhiẽⁿ Siãng-tì, õi-tsai siẽn-ak.
+<!-- 因为上帝知恁食之日，以后恁其目就开，恁就亲像上帝，会知善恶。 -->
+[6] Hũ-jîn thóiⁿ-tie̍h hṳ́-tsâng-chhiū hó-chia̍h, kuã zua̍t-ma̍k, khó-àiⁿ lâi-iah tì-hũi; i chiũ tshú i-kâi kuéⁿ-chí lâi-chia̍h; iā thuà pun i-kâi-hu, hu iā chia̍h.
+<!-- 妇人睇着许丛树好食，和悦目，可爱来益智慧；伊就取伊其果子来食；亦带分伊其夫，夫亦食。 -->
+[7] In nõ-nâng kâi ma̍k chiũ khui, tsṳ̃-tsai chhiah-sin; chiũ pìn bô-hue-kuéⁿ-chhiū kâi hie̍h lâi-tsò-kûn.
+<!-- 𪜶两侬其目就开，就知赤身；就 pìn 无花果树其箬来作裙。（注：in 俗写为 𪜶。） -->
+
+[8] Hṳ́-ji̍t thàu-liâng-huang kâi sî-hāu, in chiũ thiaⁿ Siãng-tì Iâ-hô-huâ tõ-hn̂g--tang pōu-kiâⁿ kâi siaⁿ; hu-hũ chiũ tiàm tõ-hn̂g kâi chhiū-ba̍k--tang, lâi-siám-pī Siãng-tì Iâ-hô-huâ.
+<!-- 许日透凉风其时候，𪜶就听上帝耶和华著园中步行其声；夫妇就垫著园其树木中，来闪避上帝耶和华。 -->
+[9] Siãng-tì Iâ-hô-huâ kiè A-tang, chiũ mn̄g i, tàⁿ, Lṳ́ tõ-tî-kò?
+<!-- 上帝耶和华叫亚当，就问伊，呾，汝著底地？ -->
+[10] I chiũ tàⁿ, Uá tõ-hn̂g--kò thiaⁿ-kìⁿ lṳ́-kâi-siaⁿ, in-ũi uá chhiah-sin chiũ kiaⁿ-kũ; kù-tshṳ́ chiũ tiàm-buâ.
+<!-- 伊就呾，我著园地听见汝其声，因为我赤身就惊惧；故此就垫摩。 -->
+[11] I chiũ tàⁿ, Tî-tiâng kāng-lṳ́ tàⁿ lṳ́ chhiah-sin, né? Uá mẽng lṳ́ m̄-hó-chia̍h kâi chhiū-kuéⁿ, lṳ́ ũ chia̍h, mé?
+<!-- 伊就呾，底底侬共汝呾赤身，呢？我命汝毋好食其树果，汝有食，么？ -->
+[12] A-tang chiũ tàⁿ, Chí-kâi hũ-jîn, lṳ́ phuè-pun uá, i pun uá chhiū-kuéⁿ; uá chiũ chia̍h.
+<!-- 亚当就呾，这个妇人，汝配分我，伊分我树果；我就食。 -->
+[13] Siãng-tì Iâ-hô-huâ chiũ mn̄g hũ-jîn, tàⁿ, Lṳ́ só-tsò--kâi, sĩ sĩ-mih-sṳ̄, né? Hũ-jîn chiũ tàⁿ, Tsuâ phièn uá, uá chiũ chia̍h.
+<!-- 上帝耶和华就问妇人，呾，汝所做其，是甚乜事，呢？妇人就呾，蛇骗我，我就食。（注：mih 俗写为 乜 。）-->
+
+[14] Siãng-tì Iâ-hô-huâ chiũ tùi tsuâ tàⁿ, In-ũi lṳ́ tsò chí-kâi-sṳ̄, lṳ́ pí lóng-tsóng cheng-seⁿ, chèng iá-siù, pit-tiāⁿ zú-kèng siũ-chiù.
+[15] Lṳ́ kâiⁿ pit-tie̍h ēng-tóu so, chia̍h-thôu-êng chĩn lṳ́ che̍k-seⁿ; uá sái lṳ́ kuã hũ-jîn siang uàn-hṳ̃n, íⁿ-ki̍p i kâi chéng-tsa̍k kuã lṳ́-kâi chéng-tsa̍k, i chiang-àiⁿ tng-hāi lṳ́-kâi-thâu, lṳ́ chiang-àiⁿ tng-hāi i-kâi kha-teⁿ.
+<!-- 注：tng-hāi 此词不曾听过，当害？ -->
+
+[16] Tùi hũ-jîn tàⁿ, Uá àiⁿ sái lṳ́ siũ-tho kia-puẽ kan-lân; seⁿ-kiáⁿ lâu-khóu; lṳ́ chiũ kù-hiàng lṳ́-kâi-hu, i chiũ tsò lṳ́-kâi-tsú.
+<!-- 对妇人呾，我爱使汝受胎加倍艰难；生囝劳苦；汝就顾向汝其夫，伊就做汝其主。 -->
+
+[17] Chiũ tùi A-tang tàⁿ, In-ũi lṳ́ thiaⁿ lṳ́-hũ kâi uē, chia̍h hṳ́-kâi-chhiū-kuéⁿ, uá só-mẽng lṳ́, tàⁿ, Lṳ́ m̄-hó chia̍h chí-kâi; kù-tshṳ́ thóu-tī ũi-tie̍h-lṳ́ siũ-chiù; lṳ́ che̍k-seⁿ tie̍h-lâu-khóu chiàⁿ-chia̍h thóu-suáⁿ;
+[18] thóu àiⁿ kāng-lṳ́ huat chhì-nâⁿ ak-tsháu; nā-sĩ lṳ́ chiang-àiⁿ chia̍h thôu-tī kâi tshài-so;
+[19] pit-tie̍h mīn-chiēⁿ lâu-kuāⁿ chiàⁿ-ũ tit-chia̍h, thãi-kàu lṳ́ kui-thôu; in-ũi lṳ́ sĩ tshông-thôu tshú--tshut-lâi; uân-in lṳ́ sĩ-thôu, iā pit-tie̍h kui tõ-thôu.
+[20] A-tang kiè i-kâi-hũ miâⁿ tsò Hā-ua; in-ũi sĩ che̍k-khài seⁿ-lêng kâi bó.
+[21] Siãng-tì Iâ-hô-huâ iā kāng A-tang kuã i-kâi-hũ tsò phuê-saⁿ, pun in chhēng.
+
+[22] Siãng-tì Iâ-hô-huâ chiũ tàⁿ, Taⁿ, chí-kâi-nâng íⁿ-keng tit-tie̍h kāng nán tâng-téng, õi-tsai siẽn-ak; taⁿ, khióng-ùi i tshun-tshut i-kâi-chhiú, tshú seⁿ-miāⁿ-chhiū kâi kuéⁿ lâi-chia̍h, chiũ tit-ióng-seⁿ;
+[23] só-íⁿ Siãng-tì Iâ-hô-huâ sái chí-kâi-nâng tshut Ai-thiên-hn̂g, khṳ̀ chèng-tsoh só-tsãu--i kâi nguân-thôu.
+[24] Chiũ to̍k-tshut chí-kâi-nâng; tõ Ai-thiên-hn̂g tang-pôiⁿ li̍p Ki-lũ-peng, kuã hué-kiàm hui-hui-tńg, lâi-siú seⁿ-miāⁿ-chhiū kâi lōu.
+<!-- 就逐出这个侬；著埃填（伊甸）园东爿立基栟，和火剑回回转，来守生命树其路。 -->
+
+<!-- 第 13 页 -->
+## 4
+
+
