@@ -151,6 +151,7 @@ Tsuâ chiũ tùi hũ-jîn tàⁿ, Õ! Siãng-tì khá-ũ-tàⁿ, Hn�
 <!-- 因为上帝知恁食之日，以后恁其目就开，恁就亲像上帝，会知善恶。 -->
 [6] Hũ-jîn thóiⁿ-tie̍h hṳ́-tsâng-chhiū hó-chia̍h, kuã zua̍t-ma̍k, khó-àiⁿ lâi-iah tì-hũi; i chiũ tshú i-kâi kuéⁿ-chí lâi-chia̍h; iā thuà pun i-kâi-hu, hu iā chia̍h.
 <!-- 妇人睇着许丛树好食，和悦目，可爱来益智慧；伊就取伊其果子来食；亦带分伊其夫，夫亦食。 -->
+<!-- 第 10 页 -->
 [7] In nõ-nâng kâi ma̍k chiũ khui, tsṳ̃-tsai chhiah-sin; chiũ pìn bô-hue-kuéⁿ-chhiū kâi hie̍h lâi-tsò-kûn.
 <!-- 𪜶两侬其目就开，就知赤身；就 pìn 无花果树其箬来作裙。（注：in 俗写为 𪜶。） -->
 
@@ -167,6 +168,7 @@ Tsuâ chiũ tùi hũ-jîn tàⁿ, Õ! Siãng-tì khá-ũ-tàⁿ, Hn�
 [13] Siãng-tì Iâ-hô-huâ chiũ mn̄g hũ-jîn, tàⁿ, Lṳ́ só-tsò--kâi, sĩ sĩ-mih-sṳ̄, né? Hũ-jîn chiũ tàⁿ, Tsuâ phièn uá, uá chiũ chia̍h.
 <!-- 上帝耶和华就问妇人，呾，汝所做其，是甚乜事，呢？妇人就呾，蛇骗我，我就食。（注：mih 俗写为 乜 。）-->
 
+<!-- 第 11 页 -->
 [14] Siãng-tì Iâ-hô-huâ chiũ tùi tsuâ tàⁿ, In-ũi lṳ́ tsò chí-kâi-sṳ̄, lṳ́ pí lóng-tsóng cheng-seⁿ, chèng iá-siù, pit-tiāⁿ zú-kèng siũ-chiù.
 [15] Lṳ́ kâiⁿ pit-tie̍h ēng-tóu so, chia̍h-thôu-êng chĩn lṳ́ che̍k-seⁿ; uá sái lṳ́ kuã hũ-jîn siang uàn-hṳ̃n, íⁿ-ki̍p i kâi chéng-tsa̍k kuã lṳ́-kâi chéng-tsa̍k, i chiang-àiⁿ tng-hāi lṳ́-kâi-thâu, lṳ́ chiang-àiⁿ tng-hāi i-kâi kha-teⁿ.
 <!-- 注：tng-hāi 此词不曾听过，当害？ -->
@@ -176,6 +178,7 @@ Tsuâ chiũ tùi hũ-jîn tàⁿ, Õ! Siãng-tì khá-ũ-tàⁿ, Hn�
 
 [17] Chiũ tùi A-tang tàⁿ, In-ũi lṳ́ thiaⁿ lṳ́-hũ kâi uē, chia̍h hṳ́-kâi-chhiū-kuéⁿ, uá só-mẽng lṳ́, tàⁿ, Lṳ́ m̄-hó chia̍h chí-kâi; kù-tshṳ́ thóu-tī ũi-tie̍h-lṳ́ siũ-chiù; lṳ́ che̍k-seⁿ tie̍h-lâu-khóu chiàⁿ-chia̍h thóu-suáⁿ;
 [18] thóu àiⁿ kāng-lṳ́ huat chhì-nâⁿ ak-tsháu; nā-sĩ lṳ́ chiang-àiⁿ chia̍h thôu-tī kâi tshài-so;
+<!-- 第 12 页 -->
 [19] pit-tie̍h mīn-chiēⁿ lâu-kuāⁿ chiàⁿ-ũ tit-chia̍h, thãi-kàu lṳ́ kui-thôu; in-ũi lṳ́ sĩ tshông-thôu tshú--tshut-lâi; uân-in lṳ́ sĩ-thôu, iā pit-tie̍h kui tõ-thôu.
 [20] A-tang kiè i-kâi-hũ miâⁿ tsò Hā-ua; in-ũi sĩ che̍k-khài seⁿ-lêng kâi bó.
 [21] Siãng-tì Iâ-hô-huâ iā kāng A-tang kuã i-kâi-hũ tsò phuê-saⁿ, pun in chhēng.
@@ -183,7 +186,7 @@ Tsuâ chiũ tùi hũ-jîn tàⁿ, Õ! Siãng-tì khá-ũ-tàⁿ, Hn�
 [22] Siãng-tì Iâ-hô-huâ chiũ tàⁿ, Taⁿ, chí-kâi-nâng íⁿ-keng tit-tie̍h kāng nán tâng-téng, õi-tsai siẽn-ak; taⁿ, khióng-ùi i tshun-tshut i-kâi-chhiú, tshú seⁿ-miāⁿ-chhiū kâi kuéⁿ lâi-chia̍h, chiũ tit-ióng-seⁿ;
 [23] só-íⁿ Siãng-tì Iâ-hô-huâ sái chí-kâi-nâng tshut Ai-thiên-hn̂g, khṳ̀ chèng-tsoh só-tsãu--i kâi nguân-thôu.
 [24] Chiũ to̍k-tshut chí-kâi-nâng; tõ Ai-thiên-hn̂g tang-pôiⁿ li̍p Ki-lũ-peng, kuã hué-kiàm hui-hui-tńg, lâi-siú seⁿ-miāⁿ-chhiū kâi lōu.
-<!-- 就逐出这个侬；著埃填（伊甸）园东爿立基栟，和火剑回回转，来守生命树其路。 -->
+<!-- 就逐出这个侬；著埃填（伊甸）园东爿立基路栟，和火剑回回转，来守生命树其路。 -->
 
 <!-- 第 13 页 -->
 ## 4
