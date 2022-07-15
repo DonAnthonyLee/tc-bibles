@@ -104,7 +104,7 @@ Thiⁿ kuã tī kuã i kâi khûn-lūi chiũ tsò-chiâⁿ.
 
 <!-- 第 6 页 -->
 [4] Iâ-hô-huâ Siãng-tì tsõ thiⁿ kuã tī kâi sî-hāu, i siũ-tsãu kâi nguân-iû chiũ-sĩ chièⁿ-seⁿ.
-<!-- 注：上句中 tsõ 疑为印刷错误，估计为 tsò 。 -->
+<!-- 注：上句中 tsõ 疑为印刷错误，估计为 tsò 。（再注：可能当时真的读 tsõ，见后续用法。） -->
 [5] Tī-chiēⁿ buē-ũ kak-iēⁿ iá-tsháu, kak-iēⁿ kâi tshài-so iā buē-ũ-huat; in-ũi Iâ-hô-huâ Siãng-tì bô lo̍h-hõu tõ tī-mīn, pẽng bô-nâng keⁿ-tsoh;
 [6] chiũ ũ bū tshông-tī khí, lâi zũn-che̍k muáⁿ-pìn thôu-mīn.
 
@@ -137,6 +137,7 @@ Thiⁿ kuã tī kuã i kâi khûn-lūi chiũ tsò-chiâⁿ.
 [25] Chí-kâi-nâng kuã i-kâi-chhi nõ-nâng chhiah-sin, iā m̄-tsai siáu-lí.
 
 ## 3
+
 Iâ-hô-huâ Siãng-tì só-tsò tī-chiēⁿ kâi ua̍h-mue̍h, chiũ-sĩ tsuâ siãng-kan-tsà.
 <!-- 耶和华上帝所做地上其活物，就是蛇上奸诈。 -->
 Tsuâ chiũ tùi hũ-jîn tàⁿ, Õ! Siãng-tì khá-ũ-tàⁿ, Hn̂g--tang kâi peh-chhiū, nín m̄-hó-chia̍h, mé?
@@ -191,4 +192,45 @@ Tsuâ chiũ tùi hũ-jîn tàⁿ, Õ! Siãng-tì khá-ũ-tàⁿ, Hn�
 <!-- 第 13 页 -->
 ## 4
 
+A-tang kāng i-kâi-hũ Hā-ua tâng-pâng; i chiũ siũ-tho, seⁿ Kai-ṳ́n, chiũ tàⁿ, Iâ-hô-huâ pó-iũ uá, uá chiũ tit nâm-jî.
 
+[2] Iũ-seⁿ i-kâi a-tĩ A-pek. A-pek sĩ chhī-iêⁿ, Kai-ṳ́n sĩ tsho-tshân.
+[3] Ji̍t-kú--liáu, Kai-ṳ́n khie̍h thóu-suáⁿ lâi-chì Iâ-hô-huâ.
+[4] A-pek iā khie̍h i-kâi-iêⁿ thâu-tho pûi-lùn--kâi.
+[5] Iâ-hô-huâ kuàn-kù A-pek kuã i-kâi chì-mue̍h; nā-sĩ Kai-ṳ́n kuã i-kâi chì-mue̍h, I chiũ bô kuàn-kù. Kai-ṳ́n chiũ tãi-náu pìⁿ-mīn.
+[6] Iâ-hô-huâ chiũ mn̄g Kai-ṳ́n, tàⁿ, Lṳ́ náu tsò-nî? pìⁿ-mīn tsò-nî?
+[7] Zû-jia̍k kiâⁿ-siẽn, khá-m̄ hí-na̍p, né? zû-jia̍k kiâⁿ-m̄-siẽn, tsuẽ-ngia̍k ki̍p-mn̂g; i chiũ kù-hiàng tõ-lṳ́, lṳ́ chiũ tsò i-kâi-tsú.
+[8] Kái-ṳ́n chiũ kāng i-kâi a-tĩ A-pek tàⁿ.
+
+Nõ-nâng tõ-guā-kháu, Kai-ṳ́n chiũ khí-chhiú kong-suah i-kâi a-tĩ A-pek.
+[9] Iâ-hô-huâ chiũ mn̄g Kai-ṳ́n, tàⁿ, Lṳ́-kâi a-tĩ A-pek tõ-tî-kò? I chiũ tàⁿ, Uá m̄-tsai; uá khá-sĩ kuan-huâng uá a-tĩ, mé?
+<!-- 第 14 页 -->
+[10] I chiũ tàⁿ, Lṳ́ ũ tsò-nî-tsò? lṳ́ a-tĩ kâi hueh ũ siaⁿ tshông tõ tī-tang khiû uá.
+[11] Tī ũ khui-kháu tõ lṳ́ chhiú--thâu siũ lṳ́-tĩ kâi hueh, kù-tshṳ́ lṳ́ pĩ-chiù tõ tī-min;
+[12] kàu-ãu lṳ́ sui-jiên keⁿ-tsoh, tī m̄ kāng lṳ́ tshut-la̍t; lṳ́ tõ-tī-chiēⁿ chiang-àiⁿ liû-lî sit-só.
+[13] Kai-ṳ́n chiũ tùi Iâ-hô-huâ tàⁿ, Uá siũ-hêng kuè-tãng m̄-hó-nãi.
+[14] Lṳ́ kim-ji̍t tshông tī kâi mīn-chiēⁿ to̍k uá tshut; uá tie̍h lī lṳ́-mīn-tsôiⁿ ṳ́n-pī; uá tõ tī-chiēⁿ liû-lî sit-só; tì-kàu kìⁿ-nâng ngõ--tie̍h uá, chiũ àiⁿ-suah uá.
+[15] Iâ-hô-huâ chiũ tùi i tàⁿ, Kù-tshṳ́ bô-lũn sĩ-mih-nâng suah Kai-ṳ́n, siũ-hêng pit-tiāⁿ chhit-puẽ. Só-íⁿ Iâ-hô-huâ kāng Kai-ṳ́n tsò-hō, mién pun ngõ-tie̍h kâi nâng thâi--i.
+[16] Kái-ṳ́n chiũ lī-khui Iâ-hô-huâ mīn-tsôiⁿ, khṳ̀ Ai-thiên tang-pôiⁿ, Nõ tit kâi tī-hng, khiã-khí.
+
+<!-- 第 15 页 -->
+[17] Kai-ṳ́n kāng i-kâi-chhi tâng-pâng; i chiũ siũ-tho, seⁿ Íⁿ-na̍p; i iũ kiẽn-siâⁿ, chiè i-kiáⁿ kâi miâⁿ chheng siâⁿ-miâⁿ tsò Íⁿ-na̍p.
+[18] Íⁿ-na̍p chiũ tit-tsṳ́ Íⁿ-la̍p; Íⁿ-la̍p seⁿ Mí-hũ-iá-lĩ; Mí-hũ-iá-lĩ seⁿ Má-thú-sat-lĩ; Mã-thú-sat-lĩ seⁿ La̍h-me̍k.
+
+[19] La̍h-me̍k tshuā nõ-kâi-bóu; che̍k-kâi miâⁿ kiè-tsò A-tã, che̍k-kâi miâⁿ kiè-tsò Sí-la̍h.
+[20] A-tã seⁿ Iá-pat; chí-kâi tsò kṳ-pòu-phâng chhī-cheng-seⁿ chèng-nâng kâi tsóu.
+[21] I-kâi a-tĩ kâi miâⁿ sĩ Iû-pat; chí-kâi tsò tuâⁿ-khîm tshue-siau chèng-nâng kâi tsóu.
+[22] Iũ Sí-la̍h, i chiũ seⁿ Thú-pat Kai-ṳ́n, õi phah tâng-thih kak-iēⁿ kâi khì-kũ; Thú-pat Kai-ṳ́n chí-muē sĩ Ná-má.
+[23] La̍h-me̍k chiũ tùi i nõ-kâi-bóu tàⁿ:
+> A-tã, Sí-la̍h, tie̍h-bûn uá-siaⁿ;
+> La̍h-me̍k kâi hũ tie̍h-thiaⁿ uá-uē;
+> Uá thâi-nâng siêⁿ-hôiⁿ uá-sieⁿ;
+> Uá suah-thông pò-èng uá-thiàⁿ;
+> Uân-khî Kai-ṳ́n kia chhit-puẽ hêng;
+> Ũi-tie̍h La̍h-me̍k chhit-tsa̍p-chhit têng.
+
+<!-- 第 16 页 -->
+[25] A-tang iũ-tsài kāng i-kâi-chhi tâng-pâng; i chiũ seⁿ-kiáⁿ, mẽng i-kâi-miâⁿ tsò Siet; tàⁿ, In-ũi Siãng-tì tsài-siet chéng-tsa̍k sṳ̀-uá; lâi-thòi Kai-ṳ́n só-suah kâi A-pek.
+[26] Siet, i iā seⁿ-kiáⁿ, mẽng i-kâi-miâⁿ tsò Íⁿ-nõ-sṳ̃; tõ hṳ́-kâi sî-hāu nâng chiàⁿ tsho-thâu chheng Iâ-hô-huâ kâi miâⁿ.
+
+## 5
