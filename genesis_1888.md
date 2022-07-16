@@ -30,7 +30,7 @@
 ## 1
 
 Khí-thâu kâi sî-hāu Siãng-tì tshàng-tsãu thiⁿ kuã tī.
-<!-- 起头其时候，上帝创造天和地。 （注：kuã 暂作 和，或与 凡 读 huãm/hãm 之类相关？）-->
+<!-- 起头其时候，上帝创造天和地。 （注：kuã 暂作 和，或与 凡 读 huãm/hãm 之类相关？）（再注：采用 “和” 只是音韵上需尽量避免采用浊去声读为浊上声解释而不甚符合，但也并非无先例，比如 “硬”，潮腔读 ngẽⁿ，泉腔读 ngĩⁿ 。 -->
 [2] Tī sĩ khang-hṳ hũn-tũn; chhim-uan kâi mīn-chiēⁿ sĩ ou-àm; Siãng-tì kâi Sîn pū tõ chèng-tsúi kâi mīn-chiēⁿ.
 <!-- 地是空虚混沌，深渊其面上是乌暗；上帝其神伏著众水其面上。 -->
 
@@ -234,3 +234,55 @@ Nõ-nâng tõ-guā-kháu, Kai-ṳ́n chiũ khí-chhiú kong-suah i-kâi
 [26] Siet, i iā seⁿ-kiáⁿ, mẽng i-kâi-miâⁿ tsò Íⁿ-nõ-sṳ̃; tõ hṳ́-kâi sî-hāu nâng chiàⁿ tsho-thâu chheng Iâ-hô-huâ kâi miâⁿ.
 
 ## 5
+
+Chí-ẽ sĩ A-tang ãu-ĩ kâi tso̍k-phóu. Siãng-tì tshàng-tsãu A-tang kâi ji̍t, chiũ chhin-chhiẽⁿ Siãng-tì kâi iēⁿ tshàng-tsãu i;
+[2] tsãu-nâm kiam-nńg; tng in siũ-tsãu kâi ji̍t, Siãng-tì hṳ́-hok, mẽng in-kâi-miâⁿ tsò A-tang.
+
+[3] A-tang chia̍h kàu che̍k-peh saⁿ-tsa̍p-huè chiũ seⁿ kâi-kiáⁿ siãu ka-kī, chhin-chhiẽⁿ i-kâi-iēⁿ; mẽng i-kâi-miâⁿ tsò Siet;
+<!-- 第 17 页 -->
+[4] A-tang seⁿ Siet tsṳ-ãu, nîⁿ-kí ke poih-peh-huè; iũ seⁿ lâm-nńg-kiáⁿ.
+[5] A-tang che̍k-èng chia̍h-kàu káu-peh saⁿ-tsa̍p-huè; chiũ sí.
+
+[6] Siet chia̍h-kàu che̍k-peh tuaⁿ ngõu-huè, chiũ seⁿ Íⁿ-nõ-sṳ̃;
+[7] Siet seⁿ Íⁿ-nõ-sṳ̃ tsṳ-ãu, nîⁿ-kí ke poih-peh tuaⁿ chhit-huè, iũ seⁿ lâm-nńg-kiáⁿ;
+[8] Siet che̍k-èng chia̍h-kàu káu-peh it-tsa̍p-jī huè; chiũ sí.
+
+[9] Íⁿ-nõ-sṳ̃ chia̍h-kàu káu-tsa̍p-huè, chiũ seⁿ Kai-nâm;
+[10] Íⁿ-nõ-sṳ̃ seⁿ Kai-nâm tsṳ-ãu, nîⁿ-kí ke poih-peh it-tsa̍p-ngõu huè, iũ seⁿ lâm-nńg-kiáⁿ;
+[11] Íⁿ-nõ-sṳ̃ che̍k-èng chia̍h-kàu káu-peh tuaⁿ ngõu-huè; chiũ sí.
+
+[12] Kai-nâm chia̍h-kàu chhit-tsa̍p-huè, chiũ seⁿ Má-le̍k-lie̍t;
+[13] Kai-nâm seⁿ Má-le̍k-lie̍t tsṳ-ãu, nîⁿ-kí ke poih-peh sì-tsa̍p-huè, iũ seⁿ lâm-nńg-kiáⁿ;
+[14] Kai-nâm che̍k-èng chia̍h-kàu káu-peh tuaⁿ tsa̍p-huè; chiũ sí.
+
+<!-- 第 18 页 -->
+[15] Má-le̍k-lie̍t chia̍h-kàu la̍k-tsa̍p-ngõu huè, chiũ seⁿ Iá-lie̍t;
+[16] Má-le̍k-lie̍t seⁿ Iá-lie̍t tsṳ-ãu, nîⁿ-kí ke poih-peh saⁿ-tsa̍p-huè, iũ seⁿ lâm-nńg-kiáⁿ;
+[17] Má-le̍k-lie̍t che̍k-èng chia̍h-kàu poih-peh káu-tsa̍p-ngõu huè; chiũ sí.
+
+[18] Iá-lie̍t chia̍h-kàu che̍k-peh la̍k-tsa̍p-jī huè, chiũ seⁿ Íⁿ-na̍p;
+[19] Iá-lie̍t seⁿ Íⁿ-na̍p tsṳ-ãu, nîⁿ-kí ke poih-peh-huè, iũ seⁿ lâm-nńg-kiáⁿ;
+[20] Iá-lie̍t che̍k-èng chia̍h-kàu káu-peh la̍k-tsa̍p-jī huè; chiũ sí.
+
+[21] Íⁿ-na̍p chia̍h-kàu la̍k-tsa̍p-ngõu huè, chiũ seⁿ Má-thú-sat-la̍h;
+[22] Íⁿ-na̍p seⁿ Má-thú-sat-la̍h tsṳ-ãu, kāng Siãng-tì tâng-kiâⁿ, keng saⁿ-peh-nîⁿ kú, iũ seⁿ lâm-nńg-kiáⁿ;
+[23] Íⁿ-na̍p che̍k-èng chia̍h-kàu saⁿ-peh la̍k-tsa̍p-ngõu huè;
+[24] Íⁿ-na̍p kāng Siãng-tì tâng-kiâⁿ; liáu bô-tõ; in-ũi Siãng-tì chiap-ín--i.
+
+<!-- 第 19 页 -->
+[25] Má-thú-sat-la̍h chia̍h-kàu che̍k-peh poih-tsa̍p-chhit huè, chiũ seⁿ La̍h-me̍k;
+[26] Má-thú-sat-la̍h seⁿ La̍h-me̍k tsṳ-ãu, nîⁿ-kí ke chhit-peh poih-tsa̍p-jī huè, iũ seⁿ lâm-nńg-kiáⁿ;
+[27] Má-thú-sat-la̍h che̍k-èng chia̍h-kàu káu-peh la̍k-tsa̍p-káu huè; chiũ sí.
+
+[28] La̍h-me̍k chia̍h-kàu che̍k-peh poih-tsa̍p-jī huè, chiũ seⁿ kâi-kiáⁿ;
+[29] mẽng i-kâi-miâⁿ Nô-a, tàⁿ, In-ũi Iâ-hô-huâ chiù thôu-tī, chí-kâi-kiáⁿ chiang-àiⁿ uaⁿ-uè nán, mín-ēng nán-kâi-chhiú lâu-khóu tsò-kang.
+[30] La̍h-me̍k seⁿ Nô-a tsṳ-ãu, nîⁿ-kí ke ngõu-peh káu-tsa̍p-ngõu huè, iũ seⁿ lâm-nńg-kiáⁿ;
+[31] La̍h-me̍k che̍k-èng chia̍h-kàu chhit-peh chhit-tsa̍p-chhit huè; chiũ sí.
+[32] Nô-a ngõu-peh-huè; Nô-a chiũ seⁿ Siám, Hâm, Iá-hut.
+
+## 6
+
+Kàu-ãu, nâng tsho-khí heng-sẽng tõ tī-mīn, seⁿ ũ nńg-tsṳ́,
+<!-- 第 20 页 -->
+[2] Siãng-tì kâi kiáⁿ--puè chiũ thóiⁿ-tie̍h sì-jîn kâi nńg-tsṳ́ iông-mãu múi-lĩ; chiũ sûi in só-suán tshuā in lâi tsò-chhi.
+
