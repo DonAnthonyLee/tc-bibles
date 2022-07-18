@@ -286,3 +286,60 @@ Kàu-ãu, nâng tsho-khí heng-sẽng tõ tī-mīn, seⁿ ũ nńg-tsṳ
 <!-- 第 20 页 -->
 [2] Siãng-tì kâi kiáⁿ--puè chiũ thóiⁿ-tie̍h sì-jîn kâi nńg-tsṳ́ iông-mãu múi-lĩ; chiũ sûi in só-suán tshuā in lâi tsò-chhi.
 
+[3] Iâ-hô-huâ chiũ tàⁿ, Uá-kâi Sîn bô kú-kú tsú-tsái tõ nâng-kâi-sim, in-ũi i iā-sĩ ne̍k-thói--kâi;
+<!-- 耶和华就呾，我其神无久久主宰著侬其心，因为伊亦是肉体其。 -->
+nā-sĩ i-kâi nîⁿ-siàu huân khó-tshûn kàu che̍k-peh jī-tsa̍p-nîⁿ.
+
+[4] Hṳ́-kâi sî-hāu ũ kûiⁿ-tuā kâi-lâm-tsṳ́ tõ tī-chiēⁿ, liáu-ãu Siãng-tì kâi kiáⁿ--puè ji̍p--khṳ̀ kāng sì-jîn kâi nńg-tsṳ́ tâng-pâng, in chiũ kāng in seⁿ-kiáⁿ; chí-kâi sĩ kóu-tsá tshut-miâⁿ kâi hó-hàn.
+
+[5] Iâ-hô-huâ tshat-thóiⁿ sì-jîn tõ tī-chiēⁿ tsò-ak kuàn-iông, i-kâi sim-sṳ só huat-tshut mué-ji̍t to̍k-to̍k sĩ ak.
+<!-- 耶和华察睇世人著地上作恶贯盈，伊其心思所发出每日独独是恶。 -->
+[6] Iâ-hô-huâ chiũ siẽⁿ-huè I tshàng-tsãu sì-jîn tõ tī-chiēⁿ, sim chiũ iu-būn.
+<!-- 耶和华就想悔伊创造世人著地上，心就忧闷。 -->
+[7] Iâ-hô-huâ chiũ tàⁿ, uá àiⁿ chiang uá só-tsãu kâi nâng lâi-mi̍t-tiāu tõ tī-chiēⁿ; put-lũn nâng, kuã cheng-seⁿ, kuã õi-pê kâi mue̍h, íⁿ-ki̍p thiⁿ-tang kâi pue-chiáu;
+in-ũi uá tshàng-tsãu i, huán-tńg siẽⁿ-huè--liáu.
+<!-- 因为我创造伊，反转想悔了。 -->
+<!-- 第 21 页 -->
+[8] Nā-sĩ Nô-a tõ Ia-hô-huâ mīn-tsõiⁿ tit-ṳn.
+<!-- 注：上句似未写完，前述亦有若干句有此情况，也许需要比照原文。 -->
+
+[9] Chí-ẽ chiũ-sĩ Nô-a kâi sì-hĩ. Nô-a sĩ ngĩ-jîn, tshú-sì sĩ uân-tshuân;
+[10] Nô-a kāng Siãng-tì tâng-kiâⁿ. Nô-a seⁿ saⁿ-kâi-kiáⁿ, Siám, Hâm, Iá-hut.
+[11] Tng-sî tõ Siãng-tì mīn-tsôiⁿ sì-kài thue-hùi, pìn-sì pãu-ngia̍k.
+<!-- 当时著上帝面前世界颓废，遍世暴虐。 -->
+[12] Siãng-tì tshat-thóiⁿ sì-kài, kì-sĩ thue-hùi; in-ũi sì-chiēⁿ chèng-nâng só-kiâⁿ sĩ siâ-phiah.
+
+[13] Siãng-tì chiũ kāng Nô-a tàⁿ, Sì-jîn mi̍t-buâng uá kòi-sǹg tiāⁿ-tie̍h--liáu; in-ũi in pãu-ngia̍k muáⁿ-tī; uá chiũ àiⁿ kiam-kuã tī mi̍t-tiāu in.
+[14] Lṳ́ hó chiang pek-chhiū-tshâ tsõ-tsûn; tsûn-sin tsò pâng-koiⁿ, lãi-guā kôu le̍h-chheⁿ.
+[15] Lṳ́ tie̍h àn-chièⁿ-seⁿ tsõ; tsûn tn̂g--sì saⁿ-tsa̍p-tñg, khuah ngõu-tñg, kûiⁿ saⁿ-tñg.
+<!-- 汝着按障生做，船长势三十丈，阔五丈，高三丈。 -->
+<!-- 注：至此，可确定 “做” 当时文读音有读 tsõ；若结合现今众多白读音阴去（或按韵书为阴去读法）而文读音读为阳上的情况来看，此音属正常现象。 -->
+[16] Tsûn tie̍h tsò-theng, ti̍t-khí che̍k-chhieh;
+<!-- 第 22 页 -->
+tsûn kâi mn̂g tie̍h tsò-pàng i che̍k-pôiⁿ; tie̍h tsõ-tsò siãng tong hiã, saⁿ-tsâng.
+[17] Uá sái tuā-tsúi tõ-tī, lâi mi̍t-tiāu thiⁿ-ẽ lóng-tsóng ũ-hueh-ne̍k khùi-sip kâi mue̍h;
+<!-- 注：khùi-sip 疑似 气息 -->
+tī-chiēⁿ kâi mue̍h pit lóng-tsóng sí.
+[18] Nā-sĩ uá kāng-lṳ́ li̍p uá-kâi-ieh; lṳ́ chiũ lâi-ji̍p-tsûn, lṳ́, kah lṳ́-kâi-kiáⁿ, kuã lṳ́-kai-chhi, kuã lṳ́-kiáⁿ kâi chhi, kāng-lṳ́ tsò-che̍k-ē.
+[19] Lṳ́ iā tie̍h chiang kak-iēⁿ ũ hueh-ne̍k kâi ua̍h-mue̍h che̍k-tùi che̍k-tùi, tshuā-i ji̍p-tsûn, pêⁿ-tâng kāng-lṳ́ pó-tshûn seⁿ-miāⁿ; pit-tie̍h kang kuã bó kàu-tùi.
+[20] Pue-chiáu tshông-khî-lūi, cheng-seⁿ tshông-khî-lūi, tī-chiēⁿ õi-pê kâi mue̍h tshông-khî-lūi, kak-kak chiâⁿ-tùi lâi-chiũ-kṳ̃n lṳ́, khṳt-lṳ́ pó-tshûn--i.
+[21] Lṳ́ iā tie̍h chiang kak-iēⁿ só-chia̍h kâi mue̍h, lâi-chek-thiok tõ--lṳ́-kò; pun lṳ́ kuã ua̍h-mue̍h tsò-chia̍h.
+[22] Nô-a chiũ chièⁿ-seⁿ-kiâⁿ; lóng-tsóng chiè Siãng-tì só-mẽng i, chiũ khṳ̀-tsò.
+
+## 7
+
+<!-- 第 23 页 -->
+Iâ-hô-huâ chiũ tùi Nô-a tàⁿ, Lṳ́ kuã tshuân-ke lâi ji̍p-tsûn; in-ũi uá kàm-thóiⁿ lṳ́ tõ chí che̍k-sì-tō kâi nâng--tang, tõ uá mīn-tsôiⁿ sĩ ngĩ-jîn.
+[2] Chheng-kiet kâi cheng-seⁿ kak-kak tie̍h-tshú kang kuã bó chhit-tùi; m̄-chheng-kiet--kâi tie̍h-tshú kang kuã bó nõ-tùi;
+[3] thiⁿ-tang kâi pue-chiáu iā tie̍h-tshú kang kuã bó chhit-tùi; lâi-tshûn chéng-tsa̍k pìn-tī-chiēⁿ.
+[4] In-ũi ke chhit-ji̍t, uá chiũ kàng-hõu tõ-tī-chiēⁿ, sì-tsa̍p-ji̍t sì-tsa̍p-mê; uá só-tsãu lóng-tsóng ua̍h-mue̍h, uá chiang-àiⁿ mi̍t-tiāu tõ tī-min.
+[5] Nô-a chiũ chiè Iâ-hô-huâ só-mẽng, lóng-tsóng kiâⁿ.
+
+[6] Tng tuā-tsúi tõ-tī kâi-sî-hāu, Nô-a chiũ la̍k-pek-huè.
+<!-- 注：上句中 la̍k-pek-huè 对照其他说法，应为 la̍k-peh-huè，即 “百” 非文读。 -->
+[7] Nô-a chiũ ji̍p--khṳ̀, kuã i-kâi-kiáⁿ, kuã i-kâi-chhi, kuã i-kiáⁿ kâi chhi, tâng-ji̍p-tsûn, lâi-pī tuā-tsúi.
+[8] Chheng-kiet kâi cheng-seⁿ, kuã m̄-chheng-kiet kâi cheng-seⁿ, pue-chiáu, kuã tõ tī-chiēⁿ õi-pê kak-iēⁿ kâi mue̍h,
+<!-- 第 24 页 -->
+[9] kang kuã bó, che̍k-tùi che̍k-tùi, tuè Nô-a ji̍p-tsûn, chiè Siãng-tì só-mẽng Nô-a kâi uē.
+[10] Kuè-chhit-ji̍t ãu, chiũ ũ tuā-tsúi tõ tī-mīn.
+<!-- 注：录入至此，及对照菲尔德词典例句，个人感觉全书行文偏书面化，不知是否与同期官话译本有关？ -->
