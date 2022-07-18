@@ -312,7 +312,7 @@ in-ũi uá tshàng-tsãu i, huán-tńg siẽⁿ-huè--liáu.
 [13] Siãng-tì chiũ kāng Nô-a tàⁿ, Sì-jîn mi̍t-buâng uá kòi-sǹg tiāⁿ-tie̍h--liáu; in-ũi in pãu-ngia̍k muáⁿ-tī; uá chiũ àiⁿ kiam-kuã tī mi̍t-tiāu in.
 [14] Lṳ́ hó chiang pek-chhiū-tshâ tsõ-tsûn; tsûn-sin tsò pâng-koiⁿ, lãi-guā kôu le̍h-chheⁿ.
 [15] Lṳ́ tie̍h àn-chièⁿ-seⁿ tsõ; tsûn tn̂g--sì saⁿ-tsa̍p-tñg, khuah ngõu-tñg, kûiⁿ saⁿ-tñg.
-<!-- 汝着按障生做，船长势三十丈，阔五丈，高三丈。 -->
+<!-- 汝着按障生做，船长势三十丈，阔五丈，悬三丈。 -->
 <!-- 注：至此，可确定 “做” 当时文读音有读 tsõ；若结合现今众多白读音阴去（或按韵书为阴去读法）而文读音读为阳上的情况来看，此音属正常现象。 -->
 [16] Tsûn tie̍h tsò-theng, ti̍t-khí che̍k-chhieh;
 <!-- 第 22 页 -->
