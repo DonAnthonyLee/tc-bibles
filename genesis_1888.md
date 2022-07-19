@@ -343,3 +343,45 @@ Iâ-hô-huâ chiũ tùi Nô-a tàⁿ, Lṳ́ kuã tshuân-ke lâi ji̍
 [9] kang kuã bó, che̍k-tùi che̍k-tùi, tuè Nô-a ji̍p-tsûn, chiè Siãng-tì só-mẽng Nô-a kâi uē.
 [10] Kuè-chhit-ji̍t ãu, chiũ ũ tuā-tsúi tõ tī-mīn.
 <!-- 注：录入至此，及对照菲尔德词典例句，个人感觉全书行文偏书面化，不知是否与同期官话译本有关？ -->
+
+[11] Nô-a chiàⁿ la̍k-peh-huè, jī-gue̍h, tsa̍p-chhit-ji̍t, hṳ́-che̍k-ji̍t chhim-uan kuãng-tshut tsúi-tsuâⁿ, thiⁿ khui-khiah.
+[12] Hõu lo̍h tī-mīn sì-tsa̍p-ji̍t sì-tsa̍p-mê.
+[13] Tâng-che̍k-ji̍t Nô-a, kuã Siám, Hâm, Iá-hut, chiũ-sĩ Nô-a kâi kiáⁿ, kuã Nô-a kâi chhi, kuã i saⁿ-kâi-kiáⁿ kâi chhi, kāng-in tsò-pû ji̍p-tsûn;
+[14] in, kuã siù-thiok, kak-tshông khî-lūi, kak-iēⁿ cheng-seⁿ tshông-khî-lūi, kuã huâm tī-chiēⁿ õi-pê kâi ua̍h-mue̍h, kak tshông-khî-lūi, kak-iēⁿ pue-chiáu, kak tshông-khî-lūi, kuã kak-iēⁿ chiáu-chiah.
+[15] I chiũ tuè Nô-a ji̍p-tsûn, ũ hueh-ne̍k khùi-sip kâi ua̍h-mue̍h che̍k-tùi che̍k-tùi.
+[16] Ji̍p--khṳ̀ kak-iēⁿ ũ hueh-ne̍k khùi-sip kâi ua̍h-mue̍h, chiũ-sĩ kang kuã bó, chiè Siãng-tì só-mẽng Nô-a; Iâ-hô-huâ chiũ kāng-i kueⁿ-buâ.
+
+<!-- 第 25 页 -->
+[17] Tuā-tsúi tõ tī-chiēⁿ sì-tsa̍p-ji̍t kú; tsúi chiãm-chiãm tuā, kek-khí chí-kâi-tsûn, tsûn chiũ phû-kûiⁿ tī-mīn.
+[18] Tsúi-sì tuā, zú-kèng kia-tĩⁿ tõ tī-chiēⁿ; tsûn chiũ kiâⁿ tõ tsúi-mīn.
+[19] Tsúi-sì tõ tī-mīn zú-kèng kia-sĩm; thiⁿ-ẽ kâi kûiⁿ-suaⁿ lóng-tsóng khṳt i im-mi.
+[20] Tsúi kûiⁿ--khí-lâi tsa̍p-ngõu-chhieh; suaⁿ khṳt i im-mi.
+
+[21] Huâm ũ hueh-ne̍k, tī-chiēⁿ ua̍h-tõng kâi mue̍h, lóng-tsóng sí, chiũ-sĩ pue-chiáu, cheng-seⁿ, siù-thiok, huâm tī-chiēⁿ õi-pê kâi thâng, kuã lóng-tsóng nâng;
+[22] huâm seⁿ tõ le̍k-tī, phīⁿ-khang ũ khùi-sip kâi mue̍h, lóng-tsóng sí.
+[23] Chiũ mi̍t-tiāu tī-chiēⁿ che̍k-chhiet ua̍h-mue̍h, bô-lũn sĩ nâng, kuã cheng-seⁿ, õi-pê kâi mue̍h, íⁿ-ki̍p thiⁿ-tang kâi pue-chiáu; lóng-tsóng mi̍t-tso̍h tõ tī-chiēⁿ; tshûn tuaⁿ-tuaⁿ sĩ Nô-a, kuã só-ũ kāng-i tsò-pû tõ-tsûn.
+<!-- 第 26 页 -->
+[24] Tsúi im-tī che̍k-peh ngõu-tsa̍p-ji̍t.
+
+## 8
+
+Siãng-tì kù-liãm Nô-a, kuã che̍k-khài ua̍h-mue̍h, kuã kāng-i tsò-pû tõ tsûn lóng-tsóng cheng-seⁿ; Siãng-tì chiũ thàu-huang tshue-tī, tsúi chiũ thò;
+[2] chhim-uan kâi tsúi-tsuâⁿ, kah thiⁿ kâi phāng-khiah, chiũ sat-tsũ, thiⁿ kâi hõu chiũ hiah;
+[3] tsúi chiũ chiãm-chiãm thò tī-mīn; kàu che̍k-peh ngõu-tsa̍p-ji̍t, liáu tsúi chiàⁿ-khó.
+
+[4] Chhit gue̍h, tsa̍p-chhit ji̍t, tsûn chiũ khuà tõ A-la-la̍p suaⁿ.
+[5] Tsúi iũ chiãm-chiãm thò kàu tsa̍p gue̍h; tsa̍p gue̍h, chhiu-it ji̍t, suaⁿ-téng chiàⁿ hīn.
+
+[6] Kàu sì-tsa̍p-ji̍t muáⁿ--liáu, Nô-a chiũ khui i só-tsò kâi tsûn hṳ́-kâi-theng;
+[7] chiũ pàng che̍k-chiah ou-a tshut--khṳ̀, ou-a chiũ tshut--khṳ̀, pue-lâi pue-khṳ̀, thãi tī-chiēⁿ kâi tsúi ta.
+<!-- 第 27 页 -->
+[8] Iũ pàng che̍k-chiah hún-chiáu tshông-i--kò tshut--khṳ̀, àiⁿ chhì-thóiⁿ tsúi ũ thò tī-mīn a-buē;
+[9] nā-sĩ hún-chiáu tshuē bô-kò hó hiah-kha, chiũ kui-tńg i-kâi-tsûn tuè Nô-a, in-ũi pìn-tī-mīn ũ tsúi; i chiũ tshun-tshut i-kâi-chhiú hû--i, chih-i ji̍p-tsûn.
+[10] Iũ thãi ke chhit-ji̍t; chiũ tsài-pàng chí-kâi hún-chiáu tshut-tsûn--khṳ̀;
+[11] mê-hng hún-chiáu chiũ kui-tńg i; ã! toh ũ kaⁿ-náⁿ kâi sin-hie̍h kâⁿ tõ i-kâi tshùi--kò; chièⁿ-seⁿ Nô-a chiũ tsai tī-mīn kâi tsúi thò tī-mīn--liáu.
+[12] Iũ thãi ke chhit-ji̍t; chiũ pàng chí-kâi hún-chiáu tshut--khṳ̀; hún-chiáu chiũ bô tsài kui-tńg i--kò.
+
+[13] Hṳ́-sî chiàⁿ la̍k-peh tuaⁿ che̍k nîⁿ, thâu kâi gue̍h, thâu che̍k-ji̍t, tī-mīn kâi tsúi khó-ta; Nô-a chiũ thiet-khui tsûn-kám lâi-thóiⁿ, mōⁿ-kìⁿ thôu-mīn íⁿ-keng ta--liáu.
+[14] Kàu jī gue̍h, jī-tsa̍p-chhit ji̍t, tī chiũ ta-ta.
+
+<!-- 第 28 页 -->
