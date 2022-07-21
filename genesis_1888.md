@@ -383,3 +383,45 @@ Siãng-tì kù-liãm Nô-a, kũa che̍k-khài ua̍h-mue̍h, kũa kāng-
 [14] Kàu jī gue̍h, jī-tsa̍p-chhit ji̍t, tī chiũ ta-ta.
 
 <!-- 第 28 页 -->
+[15] Siãng-tì chiũ tùi Nô-a tàⁿ-uē, tàⁿ,
+[16] Lṳ́, kũa lṳ́-kâi-chhi, kũa lṳ́-kâi-kiáⁿ, kũa lṳ́-kiáⁿ kâi chhi, hó tsò-che̍k-ē tshut-tsûn.
+[17] Kũa kāng lṳ́ tsò-pû che̍k-khài ua̍h-mue̍h, pue-chiáu, cheng-seⁿ, kũa kak-iēⁿ tī-chiēⁿ õi-pê kâi mue̍h, tie̍h lóng-tsóng tùa i tsò-pû tshut--lâi; sái i seⁿ-sek tõ-tī, súaⁿ-io̍k tsōi-tsōi tõ tī-mīn.
+[18] Nô-a chiũ tshut-khṳ̀, kũa i-kâi-kiáⁿ, i-kâi-chhi, kũa i-kiáⁿ kâi chhi kāng-i tsò-che̍k-ē;
+[19] kak-iēⁿ siù-thiok, kũa kak-iēⁿ õi-pê kâi mue̍h, kũa kak-iēⁿ pue-chiáu, kũa che̍k-khài tī-chiēⁿ õi-pê kâi mue̍h, kak tshông khî-tso̍k-lūi, tshut-tsûn.
+
+[20] Nô-a chiũ ũi-tie̍h Iâ-hô-hûa khí-tûaⁿ; chiũ tshú kak-iēⁿ chheng-kiet kâi cheng-seⁿ, kũa kak-iēⁿ chheng-kiet kâi pue-chiáu, hièn sie-chì tõ tûaⁿ--chiēⁿ.
+[21] Iâ-hô-hûa chiũ phīⁿ--tie̍h chí-kâi phang-bī; Iâ-hô-hûa sim-lãi siẽⁿ-tàⁿ, Úa íⁿ-ãu m̃ ũi-tie̍h nâng kâi ûan-kù, tsài chiù-tsó thôu-tī, in-ũi nâng kâi sim tsṳ̃-iùⁿ-sî tou-sĩ huâi ak-liãm; iā m̃ tsài húiⁿ-tiāu che̍k-khài seⁿ-mue̍h, zû úa chí-hûe só-tsò chièⁿ-seⁿ.
+<!-- 注：上句中否定词 “m̃ ” 标调与其他处（m̄）不同。 -->
+<!-- 第 29 页 -->
+[22] Tī hûan-liáu tshûn kâi sî-hāu, keⁿ-tsoh siu-sêng, kûaⁿ-zua̍h, tang-hē, ji̍t-mêⁿ, pit bô kòiⁿ-tñg.
+
+## 9
+
+Siãng-tì chiũ hṳ́-ho̍k pun Nô-a kũa i chèng-kiáⁿ, tùi in tàⁿ, Nín tie̍h-seⁿ tsōi-tsōi, tshong-múaⁿ tõ-tī.
+<!-- 注：上句中 “hṳ́-ho̍k” 疑似标调错误，估计为 “hṳ́-hok“。-->
+[2] Che̍k-khài tī-chiēⁿ kâi siù-thiok, hûam thiⁿ-tang kâi pue-chiáu, tī só-ũ kún-tõng kâi mue̍h, kũa lóng-tsóng hái-hṳ̂, chiũ ùi-kũ nín, sĩ hù-thoh tõ nín-kâi-chhiú.
+[3] Kak-iēⁿ ua̍h-tõng kâi mue̍h tsò nín-kâi-chia̍h; chhin-chhiẽⁿ chheⁿ-tshài pun nín che̍k-iēⁿ.
+[4] Zûi-to̍k ne̍k kiam-kũa i-kâi-hueh, chiũ-sĩ i-kâi seⁿ-miāⁿ, nín m̄-hó-chia̍h.
+[5] Kũa nín tì-miāⁿ kâi hueh úa chiũ pit-àiⁿ-thó; ho̍k-sĩ siù-thiok, ho̍k-sĩ nâng, ũ sieⁿ-nâng-miāⁿ, úa chiũ àiⁿ kāng-i thó; chiũ-sĩ kāng kak-nâng kâi hiaⁿ-tĩ thó nâng-miāⁿ.
+<!-- 第 30 页 -->
+[6] Put-lũn sĩ-mih-nâng lâu nâng kâi hueh, pit pĩ-nâng lâu i-kâi-hueh; in-ũi tshàng-tsãu-nâng sĩ chiè Siãng-tì kâi iēⁿ.
+[7] Lũn-nín, nín tie̍h súaⁿ-io̍k tsōi-tsōi, tsùaⁿ-seⁿ tõ-tī, lâi heng-sẽng--tõ-kò.
+
+[8] Siãng-tì chiũ tùi Nô-a, kũa tùi i chèng-kiáⁿ tsò-che̍k-ē, tàⁿ,
+[9] Nā-sĩ úa chí-hûe kāng-nín, kũa kāng nín sin-ãu kâi chéng-tsa̍k, li̍p úa-kâi-ieh.
+[10] Kũa kāng kak-iēⁿ kāng-nín tsò-pû kâi ua̍h-mue̍h, ho̍k-sĩ pue-chiáu, ho̍k-sĩ cheng-seⁿ, kũa hûam tī--chiēⁿ kâi siù-thiok kāng nín tsò-che̍k-ē; che̍k-chhiet tõ-tsûn--kò tshut-lâi, íⁿ-ki̍p le̍k-tī lóng-tsóng siù-thiok.
+[11] Úa chiũ kāng-nín li̍p úa-kâi-ieh; íⁿ-ãu hûam ũ hueh-ne̍k kâi mue̍h bô tsài pun tōa-tsúi mi̍t-tiāu; iā bô tōa-tsúi tsài húiⁿ-tiāu tī.
+[12] Siãng-tì iũ tàⁿ, úa sṳ̀-pun tiāⁿ-ieh tõ úa kũa nín tang, íⁿ-ki̍p kāng-nín tsò-pû kak-iēⁿ ua̍h-mue̍h, chì-kàu ióng-sì;
+<!-- 第 31 页 -->
+[13] iũ li̍p chí-kâi ki-tiãu lâi tsò chèng-kṳ̃; chiũ-sĩ siet úa-kâi-khẽng tõ hûn-tang, chí-kâi chiũ tsò úa kũa tī-kan li̍p-ieh kâi chèng-kṳ̃.
+[14] Kàu ãu-lâi, úa sái-hûn chia-tī, chiũ hûn-tang pit ũ khẽng hién-hīn,
+[15] úa chiũ àiⁿ kì-liãm úa-kâi-ieh, chiũ-sĩ tõ úa kũa nín--tang, íⁿ-ki̍p kak-iēⁿ ũ hueh-ne̍k kâi ua̍h-mue̍h, só-li̍p kâi ieh; íⁿ-ãu kâi tsúi chiũ bõi-tōa tì-kàu mi̍t-tso̍h hûam ũ hueh-ne̍k kâi mue̍h.
+[16] Khẽng chiũ tõ hûn-tang; úa chiũ àiⁿ kuan-thóiⁿ, sái úa liãm--tie̍h Siãng-tì kũa pìn-tī só-ũ kak-iēⁿ ũ hueh-ne̍k kâi ua̍h-mue̍h, khî-tang só-li̍p ióng-sì kâi tiāⁿ-ieh.
+[17] Siãng-tì chiũ tùi Nô-a tàⁿ, Chí-kâi chiũ-sĩ úa kāng tī-chiēⁿ ũ hueh-ne̍k kâi mue̍h só-li̍p tiāⁿ-ieh kâi ki-tiãu.
+
+[18] Nô-a kâi kiáⁿ, tõ tsûn--kò tshut--lâi, chiũ-sĩ Siám, Hâm, Iá-hut; Hâm sĩ Ka-nâm kâi tsóu-pẽ.
+<!-- 第 32 页 -->
+[19] Chí-saⁿ-nâng chiũ-sĩ Nô-a kâi kiáⁿ; pìn-tī sĩ tshông tõ in--kò seⁿ--tshut-lâi.
+
+
+
