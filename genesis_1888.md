@@ -37,7 +37,7 @@ Khí-thâu kâi sî-hāu Siãng-tì tshàng-tsãu thiⁿ kũa tī.
 [3] Siãng-tì chiũ tàⁿ, Tie̍h-ũ kng; chiũ ũ kng.
 <!-- 上帝就呾，着有光，就有光。 （注：tàⁿ 俗写为 呾。）-->
 [4] Siãng-tì thóiⁿ-tie̍h chí-kâi-kng sĩ hó; Siãng-tì chiũ pie̍t-khui kng kũa àm.
-<!-- 上帝睇着这个光是（甚？）好；上帝就捌开光和暗。 （注：thóiⁿ 俗写为 睇。） --> 
+<!-- 上帝睇着这个光是（甚？）好；上帝就捌开光和暗。 （注：thóiⁿ 俗写为 睇。） -->
 [5] Siãng-tì chheng kng tsò Ji̍t--kan, àm chheng-tsò Mê--kan. Ũ mê-hng ũ mn̂g-khí, chiũ-sĩ che̍k-ji̍t.
 <!-- 上帝称光作日间，暗称作冥间。有冥昏，有眠起，就是蜀日。 -->
 
@@ -69,7 +69,7 @@ Khí-thâu kâi sî-hāu Siãng-tì tshàng-tsãu thiⁿ kũa tī.
 [16] Siãng-tì tsò chí-nõ-kâi tōa-kng; iáu-tōa kâi kng lâi-kúan-lí ji̍t--kan, iáu-sòi kâi kng lâi-kúan-lí mê--kan; iā-tsò chheⁿ-sîn.
 <!-- 上帝做这两个大光；愈大其光来管理日间，愈细其光来管理冥间；亦作星辰。 -->
 [17] Siãng-tì pàng-i tõ thiⁿ-tang kâi kiong-tshan lâi-chiè-kng tõ-tī-chiēⁿ,
-<!-- 上帝放伊著天中其穹苍来照光在地上， --> 
+<!-- 上帝放伊著天中其穹苍来照光在地上， -->
 [18] lâi-kúan-lí ji̍t kũa mê, lâi-hun-pie̍t kng kũa àm; Siãng-tì thóiⁿ-tie̍h sĩ hó.
 <!-- 来管理日和冥，来分别光和暗；上帝睇着是（甚？）好。 -->
 [19] Ũ mê-hng ũ mn̂g-khí, chiũ-sĩ tõiⁿ-sì-ji̍t.
@@ -221,10 +221,15 @@ Nõ-nâng tõ-gūa-kháu, Kai-ṳ́n chiũ khí-chhiú kong-suah i-kâi
 [22] Iũ Sí-la̍h, i chiũ seⁿ Thú-pat Kai-ṳ́n, õi phah tâng-thih kak-iēⁿ kâi khì-kũ; Thú-pat Kai-ṳ́n chí-mūe sĩ Ná-má.
 [23] La̍h-me̍k chiũ tùi i nõ-kâi-bóu tàⁿ:
 > A-tã, Sí-la̍h, tie̍h-bûn úa-siaⁿ;
+> 
 > La̍h-me̍k kâi hũ tie̍h-thiaⁿ úa-ūe;
+> 
 > Uá thâi-nâng siêⁿ-hôiⁿ úa-sieⁿ;
+> 
 > Uá suah-thông pò-èng úa-thiàⁿ;
+> 
 > Uân-khî Kai-ṳ́n kia chhit-pũe hêng;
+> 
 > Ũi-tie̍h La̍h-me̍k chhit-tsa̍p-chhit têng.
 
 <!-- 第 16 页 -->
@@ -316,7 +321,7 @@ in-ũi úa tshàng-tsãu i, húan-tńg siẽⁿ-hùe--liáu.
 <!-- 第 22 页 -->
 tsûn kâi mn̂g tie̍h tsò-pàng i che̍k-pôiⁿ; tie̍h tsõ-tsò siãng tong hiã, saⁿ-tsâng.
 [17] Uá sái tōa-tsúi tõ-tī, lâi mi̍t-tiāu thiⁿ-ẽ lóng-tsóng ũ-hueh-ne̍k khùi-sip kâi mue̍h;
-<!-- 注：khùi-sip 疑似 气息 -->
+<!-- 注：khùi-sip 疑似 气息。（《菲尔德词典》记载 “消息” 白读为 sie-sit 。） -->
 tī-chiēⁿ kâi mue̍h pit lóng-tsóng sí.
 [18] Nā-sĩ úa kāng-lṳ́ li̍p úa-kâi-ieh; lṳ́ chiũ lâi-ji̍p-tsûn, lṳ́, kah lṳ́-kâi-kiáⁿ, kũa lṳ́-kai-chhi, kũa lṳ́-kiáⁿ kâi chhi, kāng-lṳ́ tsò-che̍k-ē.
 [19] Lṳ́ iā tie̍h chiang kak-iēⁿ ũ hueh-ne̍k kâi ua̍h-mue̍h che̍k-tùi che̍k-tùi, tshūa-i ji̍p-tsûn, pêⁿ-tâng kāng-lṳ́ pó-tshûn seⁿ-miāⁿ; pit-tie̍h kang kũa bó kàu-tùi.
@@ -423,5 +428,101 @@ Siãng-tì chiũ hṳ́-ho̍k pun Nô-a kũa i chèng-kiáⁿ, tùi in t
 <!-- 第 32 页 -->
 [19] Chí-saⁿ-nâng chiũ-sĩ Nô-a kâi kiáⁿ; pìn-tī sĩ tshông tõ in--kò seⁿ--tshut-lâi.
 
+[20] Nô-a chiũ khí-thâu tsò lông-hu, chèng phû-thô-hn̂g;
+[21] ím só-tshut kâi chiú, chiũ tsùi; tõ i-kâi pòu-phâng-lãi chiũ lòu-thói.
+[22] Hâm, sĩ Ka-nâm kâi tsóu-pẽ, thóiⁿ-kìⁿ i-kâi-pẽ lòu-thói, chiũ khṳ̀-kháu kāng i nõ-kâi hiaⁿ-tĩ tàⁿ.
+[23] Siám kũa Iá-hut khie̍h che̍k-niáⁿ-saⁿ, phi tõ nõ-nâng koiⁿ-thâu, tò-thâu-kiâⁿ chia in-pẽ kâi lòu-thói; mīn hiàng-gūa, bô thóiⁿ-kìⁿ pẽ kâi lòu-thói.
+[24] Nô-a chiú-chhéⁿ, kak-tsai i tõiⁿ-jī kâi kiáⁿ só-thãi i kâi sṳ̄.
+[25] I chiũ tàⁿ,
+> Ngũan Ka-nâm siũ chiù-tsó;
+> 
+> Tsò-po̍k kâi po̍k tõ i hiaⁿ-tĩ tang.
+[26] Iũ tàⁿ,
+> Tie̍h tsàn-múi Iâ-hô-hûa, Siám kâi Siãng-tì;
+> 
+> Ngũan Ka-nâm tsò i-kâi-po̍k.
+> 
+> Ngũan Siãng-tì sái Iá-hut heng-sẽng;
+> 
+> Khṳt i kṳ-tsũ Siám kâi pòu-phâng;
+> 
+> Ngũan Ka-nâm tsò i-kâi-po̍k.
 
+<!-- 第 33 页 -->
+[28] Tōa-tsúi tsṳ-ãu, Nô-a chia̍h ke saⁿ-peh ngõu-tsa̍p-nîⁿ.
+[29] Nô-a che̍k-èng chia̍h-kàu káu-peh ngõu-tsa̍p-hùe; chiũ sí.
 
+## 10
+
+Chí-ẽ chiũ-sĩ Nô-a kâi kiáⁿ, Siám, Hâm, Iá-hut, kâi sì-hĩ; in tõ tōa-tsúi tsṳ-ãu tit-tie̍h seⁿ-kiáⁿ.
+<!-- 注：现今 tie̍h 有时用同 tit 的现象或许来源于 tit-tie̍h 。 -->
+[2] Iá-hut kâi kiáⁿ-sun; Khó-mi̍t, Má-khok, Má-thài, Iá-huan, Thú-pat, Mí-siet, Thî-la̍h.
+[3] Khó-mi̍t kâi kiáⁿ-sun; A-si̍t-ki-ná, Lí-huap, Thô-ka-má.
+[4] Iá-huan kâi kiáⁿ-sun; Íⁿ-lĩ-sa, Tã-sit, kũa Ki-tí, To-tan nõ-tso̍k.
+[5] Chí tsùaⁿ-kâi-nâng hun-kṳ tõ ĩ-pang kâi chiu-táu, kak-kak chiè i-kâi thóu-thâm; chiè i-kâi mîn-tso̍k, tõ i-kâi pang-kok.
+
+[6] Hâm kâi kiáⁿ-sun; Kú-si̍t, Me̍k-si tso̍k, kũa Hut, kũa Ka-nâm.
+[7] Kú-si̍t kâi kiáⁿ-sun; Si-pa, Hap-hui-la̍h, Sap-tã, La-má, Sap-thî-ka; kũa La-má kâi kiáⁿ-sun; Si-pa, Tí-tãn.
+
+<!-- 第 34 页 -->
+[8] Kú-si̍t seⁿ Lêng-lo̍k, tõ sì-chiēⁿ heng-khí tsò hó-hàn.
+[9] Tõ Iâ-hô-hûa mīn-tsôiⁿ sĩ hó-hàn kâi la̍h-hu; kù-tshṳ́ tãi-sì ũ tàⁿ, Chhin-chhiẽⁿ Lêng-lo̍k, sĩ hó-hàn kâi la̍h-hu tõ Iâ-hô-hûa mīn-tsôiⁿ.
+[10] Khai-ki sĩ tõ Pa-pie̍t, Íⁿ-le̍k, A-kiet, kũa Sī-ná tī kâi Kiet-nî.
+[11] A-su̍t tshông Sī-ná tī tshut--khṳ̀, tshàng-kiẽn Nî-nî-mûi, Lĩ-hô-pek siâⁿ,
+[12] kũa Ka-la̍h, kũa Lí-sién, tõ Nî-nî-mûi kũa Ka-la̍h tìn-tang, (chí-kâi sĩ tōa-siâⁿ).
+
+[13] Me̍k-si tso̍k seⁿ Lũ-teng, An-nâm, Lĩ-hap, Na̍p-thú,
+[14] kũa Pat-lú, Kiet-lũ, Khap-thok, tsùaⁿ-kâi-tso̍k, (Kiet-lũ seⁿ Hui-lĩ-sṳ̃ che̍k-tso̍k.)
+
+[15] Ka-nâm seⁿ chiáng-tsṳ́ Si-tũn, kũa Hek;
+[16] kũa Iâ-pù-sṳ̃, A-mô-lí, Kek-ka-sat;
+[17] Hi-mūi, A-ki, Si-nî;
+[18] A-úa-tí, Sí-má-lí, Hap-mua̍t; ãu Ka-nâm kâi tso̍k-sèⁿ pun-khui.
+<!-- 第 35 页 -->
+[19] Ka-nâm kâi kéng-kài sĩ tshông Si-tũn, chiang-kṳ̃n Khî-la̍h, kàu Ka-sat; thàng-kàu Só-to-má, Ngô-mô-la̍h, Ap-má, Si-pien, thàng-kàu La̍h-sa.
+[20] Chiá sĩ Hâm kâi kiáⁿ-sun, chiè in-kâi mîn-tso̍k, chiè in-kâi thóu-thâm, tõ in-kâi tī-hng, tõ in-kâi pang-kok.
+
+[21] Siám sĩ Hi-pek chèng kiáⁿ-sun kâi tsóu-pẽ, iā-sĩ lãu Iá-hut kâi hiaⁿ-tĩ, Siám iā-ũ seⁿ-kiáⁿ.
+[22] Siám kâi kiáⁿ-sun; Íⁿ-lân, A-su̍t, A-huap-sat, Lũ-tit, A-lân.
+[23] A-lân kâi kiáⁿ-sun; U-sṳ̃, Hũ-le̍k, Khî-thiap, Má-si̍t.
+[24] A-huap-sat seⁿ Sat-la̍h; Sat-la̍h seⁿ Hi-pek.
+[25] Hi-pek seⁿ nõ-kâi-kiáⁿ; che̍k-kâi miâⁿ sĩ Huap-le̍k; in-ũi tng i-kâi sî-hāu pun-khui tī-hng; i-kâi hiaⁿ-tĩ kâi miâⁿ sĩ Iak-tan.
+[26] Iak-tan seⁿ A-mô-that, Sa-li̍p, Hap-sat-má-hui, Iâ-li̍p;
+[27] Hap-to-lân, U-sat, Te̍k-la̍h;
+[28] O-pat, A-pì-má-lĩ, Si-pa;
+[29] O-hui, Hap-hui-la̍h, Iak-pat; chí-kâi lóng-tsóng sĩ Iak-tan kâi kiáⁿ-sun.
+<!-- 第 36 页 -->
+[30] In khiã-khí sĩ tshông Mí-sa, chiang-kṳ̃n tang-pôiⁿ kâi suaⁿ, miâⁿ kiè-tsò Sí-huap.
+[31] Chiá sĩ Siám kâi kiáⁿ-sun, chiè in-kâi mîn-tso̍k, chiè in-kâi thóu-thâm, tõ in-kâi tī-hng, chiè in-kâi pang-kok.
+
+[32] Chí-kâi sĩ Nô-a kâi kiáⁿ-sun kâi tso̍k-sèⁿ, chiè in-kâi le̍h-tō, tõ in-kâi pang-kok; tōa-tsúi tsṳ-ãu lie̍t-pang sĩ tshông tõ in--kò pun-khui tõ sì--chiēⁿ.
+
+## 11
+
+Pìn-tī kâi tûn-im sie-tâng, ūe-gṳ́ che̍k-it.
+[2] Tú-ngõ in hiàng tang-pôiⁿ--kò tõ-kiâⁿ, tõ Si-ná tī ngõ-tie̍h ũ kâi pêⁿ-pou; chiũ khiã-khí tõ hṳ́-kò.
+
+[3] In chiũ jī-ke kàu-niêⁿ, tàⁿ, Lâi-khṳ̀ tsò-tsng, tie̍h sie kàu se̍k-se̍k. In chiũ ũ tsng hó thòi-chie̍h, kèng-ũ chie̍h-iû hó thòi-hue-sua.
+[4] Iũ tàⁿ, Tie̍h-lâi kiẽn-siâⁿ kũa thah, hṳ́-téng tie̍h chiap--tie̍h thiⁿ, nán chiàⁿ-õi tshut-miâⁿ; m̃, chiũ khióng-ùi sì-sùaⁿ pìn-tī-mīn.
+<!-- 第 37 页 -->
+[5] Iâ-hô-hûa chiũ kàng-lîm lâi-thóiⁿ nâng kâi tso̍k-lūi só-kiẽn kâi siâⁿ kũa thah.
+[6] Iâ-hô-hûa chiũ tàⁿ, Chí-kâi-mîn sĩ che̍k, lóng-tsóng sĩ che̍k-iēⁿ tûn-gṳ́; khí-thâu ũ chí-kâi tsak-ûi; kàu-ãu i-kâi sim-sṳ̄ bô só-tí-chí.
+[7] Nán tie̍h lâi kàng-lîm, tõ-hṳ́-kò hũn-lũan i kâi tûn-gṳ́, sái pí-tshṳ́ kâi ūe-kù m̄-siang-thong.
+[8] Chièⁿ-seⁿ Iâ-hô-hûa tshông tõ-hṳ́-kò sái in sùaⁿ-khui pìn-tī-mīn; i chiũ pã-liáu kiẽn-siâⁿ kâi kang.
+[9] Kù-tshṳ́ hṳ́-kâi-siâⁿ miâⁿ kiè-tsò Pa-pie̍t; in-ũi tõ-hṳ́-kò Iâ-hô-hûa hũn-lũan pìn-tī kâi tûn-gṳ́; Iâ-hô-hûa iā sĩ tshông tõ-hṳ́-kò sái in sùaⁿ-khui pìn-tī-mīn.
+
+[10] Chí-ẽ sĩ Siám kâi sì-hĩ. Tōa-tsúi ãu nõ-nîⁿ, Siám chiàⁿ che̍k-peh-hùe, chiũ seⁿ A-huap-sat;
+[11] seⁿ A-huap-sat tsṳ-ãu Siám kâi nîⁿ-kí ke ngõu-peh-hùe, iũ seⁿ lâm-nńg-kiáⁿ.
+
+<!-- 第 38 页 -->
+[12] A-huap-sat chia̍h-kàu saⁿ-tsa̍p-ngõu hùe chiũ seⁿ Sat-la̍p;
+[13] A-huap-sat seⁿ Sat-la̍p tsṳ-ãu, nîⁿ-kí ke sì-peh tuaⁿ-saⁿ hùe, iũ seⁿ lâm-nńg-kiáⁿ.
+
+[14] Sat-la̍p chia̍h-kàu saⁿ-tsa̍p-hùe, chiũ seⁿ Hi-pek;
+[15] Sat-la̍p seⁿ Hi-pek tsṳ-ãu, nîⁿ-kí ke sì-peh tuaⁿ-saⁿ-ùe, iũ seⁿ lâm-nńg-kiáⁿ.
+
+[16] Hi-pek chia̍h-kàu saⁿ-tsa̍p-sì hùe, chiũ seⁿ Huap-le̍k;
+[17] Hi-pek seⁿ Huap-le̍k tsṳ-ãu, nîⁿ-kí ke sì-peh saⁿ-tsa̍p hùe, iũ seⁿ lâm-nńg-kiáⁿ.
+
+[18] Huap-le̍k chia̍h-kàu saⁿ-tsa̍p-hùe, chiũ seⁿ La̍h-kóu;
+[19] Huap-le̍k seⁿ La̍h-kóu tsṳ-ãu, nîⁿ-kí ke nõ-peh tuaⁿ-káu-hùe, iũ seⁿ lâm-nńg-kiáⁿ.
