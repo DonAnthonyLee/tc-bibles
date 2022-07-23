@@ -526,3 +526,66 @@ Pìn-tī kâi tûn-im sie-tâng, ūe-gṳ́ che̍k-it.
 
 [18] Huap-le̍k chia̍h-kàu saⁿ-tsa̍p-hùe, chiũ seⁿ La̍h-kóu;
 [19] Huap-le̍k seⁿ La̍h-kóu tsṳ-ãu, nîⁿ-kí ke nõ-peh tuaⁿ-káu-hùe, iũ seⁿ lâm-nńg-kiáⁿ.
+
+[20] La̍h-kóu chia̍h-kàu saⁿ-tsa̍p-jī hùe, chiũ seⁿ Sat-lo̍k;
+[21] La̍h-kóu seⁿ Sat-lo̍k tsṳ-ãu, nîⁿ-kí ke nõ-peh tuaⁿ-chhit hùe, iũ seⁿ lâm-nńg-kiáⁿ.
+
+[22] Sat-lo̍k chia̍h-kàu saⁿ-tsa̍p-hùe, chiũ seⁿ Ná-ho̍k;
+<!-- 第 39 页 -->
+[23] Sat-lo̍k seⁿ Ná-ho̍k tsṳ-ãu, nîⁿ-kí ke nõ-peh-hue, iũ seⁿ lâm-nńg-kiáⁿ.
+
+[24] Ná-ho̍k chia̍h-kàu jī-tsa̍p-káu hùe, chiũ seⁿ Tha-la̍h;
+[25] Ná-ho̍k seⁿ Tha-la̍h tsṳ-ãu nîⁿ-kí ke che̍k-peh it-tsa̍p-káu hùe, iũ seⁿ lâm-nńg-kiáⁿ.
+
+[26] Tha-la̍h chia̍h-kàu chhit-tsa̍p hùe, chiũ seⁿ A-pek-lân, Ná-ho̍k, kũa Hap-lân.
+
+[27] Chí-ẽ sĩ Tha-la̍h kâi sì-hĩ. Tha-la̍h seⁿ A-pek-lân, Ná-ho̍k, kũa Hap-lân;
+[28] Hap-lân seⁿ Lô-tit. Hap-lân sí tõ i pẽ Tha-la̍h tsôiⁿ, tõ i pńg-tī, chiũ-sĩ tõ Ka-le̍k-tí kâi Zṳ́-ip.
+[29] A-pek-lân kũa Ná-ho̍k chiũ tshūa-chhi; A-pek-lân kâi chhi, miâⁿ kiè-tsò Sat-lài; Ná-ho̍k kâi chhi, miâⁿ kiè-tsò Mi̍t-ka, sĩ Hap-lân kâi nńg-tsṳ́; Hap-lân sĩ Mi̍t-ka kũa Íⁿ-sṳ̃-ka kâi pẽ.
+[30] Sat-lài bõi siũ-tho; chiũ bô-kiáⁿ.
+<!-- 第 40 页 -->
+[31] Tha-la̍h tùa i-kâi-kiáⁿ A-pek-lân, kũa i-kâi-sun, chiũ-sĩ Hap-lân kâi kiáⁿ Lô-tit, kũa i-kâi sim-pũ, Sat-lài, sĩ i-kâi-kiáⁿ A-pek-lân kâi chhi; chiũ kāng-i tsò-pû tshut Ka-le̍k-tí kâi Zṳ́-ip, àiⁿ-khṳ̀ Ka-nâm kâi tī; kàu Hap-lân chiũ khiã-khí tõ-hṳ́-kò.
+[32] Tha-la̍h kâi nîⁿ-kí sĩ nõ-peh tuaⁿ-ngõu hùe; Tha-la̍h chiũ sí tõ Hap-lân.
+
+## 12
+
+Iâ-hô-hûa tùi A-pek-lân tàⁿ, Lṳ́ tie̍h lī-khui lṳ́-kâi pńg-tī, kũa lṳ́-kâi chhin-chhek, kũa lṳ́-pẽ kâi ke, kàu úa chiang-àiⁿ chí-sī lṳ́ kâi tī-hng;
+[2] úa chiang-àiⁿ sái lṳ́ tsò tōa-pang, hṳ́-hok pun lṳ́, sái-lṳ́ hién-miâⁿ; lṳ́ chiũ hó hok-ìm nâng;
+[3] tsok-hok--lṳ́ kâi nâng, úa chiũ hṳ́-hok tõ i, chiù--lṳ́ kâi nâng úa chiũ ngí-hũa khṳt i; pìn-tī kâi būan-ke chiang-àiⁿ siũ lṳ́-kâi hok-ìm.
+
+[4] A-pek-lân chiũ khṳ̀, chiè Iâ-hô-hûa kāng-i tàⁿ kâi ūe; Lô-tit iā kāng-i tsò-pû khṳ̀; A-pek-lân tshut Hap-lân kâi sî-hāu, nîⁿ-kí chhit-tsa̍p-ngõu hùe.
+[5] A-pek-lân tùa i-kâi-chhi Sat-lài, kũa i hiaⁿ-tĩ kâi kiáⁿ Lô-tit, kũa che̍k-khài in só chek-thiok kâi hùe-tshâi, kũa tõ Hap-lân só-tit kâi nâng-siàu; chiũ tshut-khṳ̀ àiⁿ-úang Ka-nâm kâi tī; iáu chiũ kàu Ka-nâm tī.
+
+[6] A-pek-lân pìn-kiâⁿ chí-kâi-tī chiũ kàu Sũ-kiàm--kò, kàu Mô-lí kâi siãng-chhiū. Tng-sî Ka-nâm tso̍k tõ hṳ́-kâi-tī.
+[7] Iâ-hô-hûa chiũ hién-hīn tõ A-pek-lân, chiũ tàⁿ, Chí-kâi-tī úa chiang-àiⁿ sṳ̀-pun lṳ́-kâi chéng-tsa̍k; A-pek-lân ũi-tie̍h Iâ-hô-hûa chiũ tõ-hṳ́-kò khí-tûaⁿ, in-ũi Iâ-hô-hûa hién-hīn tõ-i.
+
+[8] Tshông tõ-hṳ́-kò súa-khui kàu Pek-tek-lĩ tang-pôiⁿ kâi suaⁿ, chiũ nêⁿ pòu-phâng; sai-pôiⁿ sĩ Pek-tek-lĩ, tang-pôiⁿ sĩ Hâi; tõ-hṳ́-kò ũi-tie̍h Iâ-hô-hûa khí-tûaⁿ, u-khiû Iâ-hô-hûa kâi miâⁿ.
+<!-- 第 42 页 -->
+[9] A-pek-lân iũ kiâⁿ, chhiâu-kiâⁿ chhiâu-kṳ̂n nâm-hng khṳ̀.
+
+[10] Tõ hṳ́-kâi-tī ũ ki-hng, A-pek-lân chiũ lo̍h Ai-ki̍p kià-kṳ tõ-hṳ́-kò; in-ũi hṳ́-kâi ki-hng sĩ tãng.
+[11] Kàu chiang-kṳ̃n àiⁿ-ji̍p Ai-ki̍p kâi sî-hāu, chiũ tùi i-kâi-chhi Sat-lài tàⁿ, Taⁿ, úa tsai lṳ́ sĩ múi-mãu kâi hũ-jîn;
+[12] chiang-lâi Ai-ki̍p nâng thóiⁿ-kìⁿ lṳ́, in pit-jiên àiⁿ-tàⁿ, Chí-kâi sĩ i-kâi-chhi; i chiũ àiⁿ-suah-úa, tshûn-ua̍h-lṳ́.
+[13] Lṳ́ chhiáⁿ tàⁿ-tsò sĩ úa-kâi a-mūe; sái úa ũi-tie̍h lṳ́ tit phêng-an, úa-kâi seⁿ-miāⁿ ũi-tie̍h lṳ́ tit pó-tshûn.
+
+[14] Ki̍p-kàu A-pek-lân ji̍p Ai-ki̍p--liáu, Ai-ki̍p nâng chiũ thóiⁿ-kìⁿ chí-kâi hũ-jîn sĩm-sĩ múi-mãu.
+[15] Huap-láu kâi tãi-chhîn thóiⁿ-kìⁿ i, chiũ o-ló i tõ Huap-láu min-tsôiⁿ; hũ-jîn chiũ pĩ-tiãu ji̍p Huap-láu kâi keng.
+[16] Ũi-tie̍h i kâi ûan-kù chiũ kãu-thãi A-pek-lân; i chiũ ũ gû-iêⁿ, lṳ̂-kang, kũa po̍k-pĩ; kũa lṳ̂-bó, lo̍h-tho̍h.
+<!-- 第 43 页 -->
+[17] Iâ-hô-hûa chiũ ēng tōa tsai-hũa cheh-hua̍t Huap-láu, kũa i che̍k-ke, ũi-tie̍h A-pek-lân kâi chhi Sat-lài kâi ûan-kù.
+[18] Huap-láu tiãu A-pek-lân, chiũ tàⁿ, Lṳ́ chièⁿ-seⁿ khúan-thãi úa sĩ tsò-nî? tsò-nî bô kāng-úa tàⁿ i sĩ lṳ́-kâi-chhi?
+[19] Lṳ́ tsò-nî tàⁿ, I sĩ úa-kâi a-mūe? úa chiũ tshūa-i lâi-tsò-chhi; taⁿ, lṳ́-kâi-chhi hôiⁿ lṳ́, lṳ́ hó tùa-i khṳ̀.
+[20] Huap-láu chiũ ũi-tie̍h A-pek-lân hun-hù--nâng; in chiũ sàng A-pek-lân khṳ̀, kũa i-kâi-chhi, kũa che̍k-khài só-ũ--kâi.
+<!-- 注：原文此段落中 -ua- 标调与全文不统一，现更改为全文统一标注于 u 处。（再注：《卓威廉词典》对于 -ua-; -ue- 标调也是两者兼用（标于 u 处居多），此书除仅 “大” 采用 -oa- 而其他用 -ua- 外，整个书写系统同《卓威廉词典》。） -->
+
+## 13
+
+A-pek-lân chiũ tshut Ai-ki̍p chiẽⁿ--khṳ̀, kũa i-kâi-chhi, kũa che̍k-khài só-ũ--kâi, kũa Lô-tit kāng-i tsò-pû, kàu nâm-hng.
+[2] A-pek-lân sĩ pù-tsãi, ũ cheng-seⁿ kim-ngṳ̂n.
+[3] Tõ-nâm-hng khí-thiâⁿ, chiãm-chiãm-kiâⁿ kàu Pek-tek-lĩ, chiũ sĩ khí-thâu nêⁿ-pòu-phâng kâi ūi-tshṳ̀, sĩ tõ Pek-tek-lĩ kũa Hâi tìn-tang;
+[4] sĩ i tsá kiẽn-tûaⁿ kâi tī-hng; A-pek-lân tõ-hṳ́-kò u-khiû Iâ-hô-hûa kâi miâⁿ.
+
+<!-- 第 44 页 -->
+
+
+
