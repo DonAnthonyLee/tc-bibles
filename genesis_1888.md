@@ -1,9 +1,22 @@
+---
+digitization-url: https://nrs.lib.harvard.edu/urn-3:fhcl:32627152
+digitization-attribution: Harvard Yenching Library
+transcription-license: https://creativecommons.org/licenses/by/4.0/
+transcription-attribution: Anthony Lee
+metadata-fields: # explanation of fields in this YAML header
+  digitization-url: URL for digital scan of source that was consulted to make the text transcription
+  digitization-license: License for digital scan images (not the source text itself)
+  digitization-attribution: Creator or publisher of digital scan who has released the scan under above license
+  transcription-license: License for transcription of the source (text only, not the images), i.e. this document
+  transcription-attribution: Creator or publisher of the text transcription
+---
+
 <!-- 扉页 -->
 # <center>KŪ-IEH</center>
 <!-- 旧约 -->
 # <center>TSHÀNG-SÌ-KÌ</center>
 <!-- 创世记 -->
-## <center>TSHUÂN-TSṲ</center>
+## <center>TSHÛAN-TSṲ</center>
 <!-- 全书 -->
 
 ## <center>E̍K-TSÒ</center>
@@ -13,7 +26,7 @@
 
 ---
 
-<center>TÕ SUÀᴺ-THÂU</center>
+<center>TÕ SÙAᴺ-THÂU</center>
 <!-- 著汕头 -->
 
 <center>LÓI-PÀI-TN̂G HÔNG-SOH-HṲN ÌN</center>
@@ -158,9 +171,9 @@ Tsûa chiũ tùi hũ-jîn tàⁿ, Õ! Siãng-tì khá-ũ-tàⁿ, Hn�
 <!-- 许日透凉风其时候，𪜶就听上帝耶和华著园中步行其声；夫妇就垫著园其树木中，来闪避上帝耶和华。 -->
 [9] Siãng-tì Iâ-hô-hûa kiè A-tang, chiũ mn̄g i, tàⁿ, Lṳ́ tõ-tî-kò?
 <!-- 上帝耶和华叫亚当，就问伊，呾，汝著底地？ -->
-[10] I chiũ tàⁿ, Uá tõ-hn̂g--kò thiaⁿ-kìⁿ lṳ́-kâi-siaⁿ, in-ũi úa chhiah-sin chiũ kiaⁿ-kũ; kù-tshṳ́ chiũ tiàm-bûa.
+[10] I chiũ tàⁿ, Úa tõ-hn̂g--kò thiaⁿ-kìⁿ lṳ́-kâi-siaⁿ, in-ũi úa chhiah-sin chiũ kiaⁿ-kũ; kù-tshṳ́ chiũ tiàm-bûa.
 <!-- 伊就呾，我著园地听见汝其声，因为我赤身就惊惧；故此就垫摩。 -->
-[11] I chiũ tàⁿ, Tî-tiâng kāng-lṳ́ tàⁿ lṳ́ chhiah-sin, né? Uá mẽng lṳ́ m̄-hó-chia̍h kâi chhiū-kúeⁿ, lṳ́ ũ chia̍h, mé?
+[11] I chiũ tàⁿ, Tî-tiâng kāng-lṳ́ tàⁿ lṳ́ chhiah-sin, né? Úa mẽng lṳ́ m̄-hó-chia̍h kâi chhiū-kúeⁿ, lṳ́ ũ chia̍h, mé?
 <!-- 伊就呾，底底侬共汝呾汝赤身，呢？我命汝毋好食其树果，汝有食，么？ -->
 [12] A-tang chiũ tàⁿ, Chí-kâi hũ-jîn, lṳ́ phùe-pun úa, i pun úa chhiū-kúeⁿ; úa chiũ chia̍h.
 <!-- 亚当就呾，这个妇人，汝配分我，伊分我树果；我就食。 -->
@@ -172,7 +185,7 @@ Tsûa chiũ tùi hũ-jîn tàⁿ, Õ! Siãng-tì khá-ũ-tàⁿ, Hn�
 [15] Lṳ́ kiâⁿ pit-tie̍h ēng-tóu so, chia̍h-thôu-êng chĩn lṳ́ che̍k-seⁿ; úa sái lṳ́ kũa hũ-jîn siang ùan-hṳ̃n, íⁿ-ki̍p i kâi chéng-tsa̍k kũa lṳ́-kâi chéng-tsa̍k, i chiang-àiⁿ tng-hāi lṳ́-kâi-thâu, lṳ́ chiang-àiⁿ tng-hāi i-kâi kha-teⁿ.
 <!-- 注：tng-hāi 此词不曾听过，当害？ -->
 
-[16] Tùi hũ-jîn tàⁿ, Uá àiⁿ sái lṳ́ siũ-tho kia-pũe kan-lân; seⁿ-kiáⁿ lâu-khóu; lṳ́ chiũ kù-hiàng lṳ́-kâi-hu, i chiũ tsò lṳ́-kâi-tsú.
+[16] Tùi hũ-jîn tàⁿ, Úa àiⁿ sái lṳ́ siũ-tho kia-pũe kan-lân; seⁿ-kiáⁿ lâu-khóu; lṳ́ chiũ kù-hiàng lṳ́-kâi-hu, i chiũ tsò lṳ́-kâi-tsú.
 <!-- 对妇人呾，我爱使汝受胎加倍艰难；生囝劳苦；汝就顾向汝其夫，伊就做汝其主。 -->
 
 [17] Chiũ tùi A-tang tàⁿ, In-ũi lṳ́ thiaⁿ lṳ́-hũ kâi ūe, chia̍h hṳ́-kâi-chhiū-kúeⁿ, úa só-mẽng lṳ́, tàⁿ, Lṳ́ m̄-hó chia̍h chí-kâi; kù-tshṳ́ thóu-tī ũi-tie̍h-lṳ́ siũ-chiù; lṳ́ che̍k-seⁿ tie̍h-lâu-khóu chiàⁿ-chia̍h thóu-súaⁿ;
@@ -201,12 +214,12 @@ A-tang kāng i-kâi-hũ Hā-ua tâng-pâng; i chiũ siũ-tho, seⁿ Kai-
 [8] Kái-ṳ́n chiũ kāng i-kâi a-tĩ A-pek tàⁿ.
 
 Nõ-nâng tõ-gūa-kháu, Kai-ṳ́n chiũ khí-chhiú kong-suah i-kâi a-tĩ A-pek.
-[9] Iâ-hô-hûa chiũ mn̄g Kai-ṳ́n, tàⁿ, Lṳ́-kâi a-tĩ A-pek tõ-tî-kò? I chiũ tàⁿ, Uá m̄-tsai; úa khá-sĩ kuan-hûang úa a-tĩ, mé?
+[9] Iâ-hô-hûa chiũ mn̄g Kai-ṳ́n, tàⁿ, Lṳ́-kâi a-tĩ A-pek tõ-tî-kò? I chiũ tàⁿ, Úa m̄-tsai; úa khá-sĩ kuan-hûang úa a-tĩ, mé?
 <!-- 第 14 页 -->
 [10] I chiũ tàⁿ, Lṳ́ ũ tsò-nî-tsò? lṳ́ a-tĩ kâi hueh ũ siaⁿ tshông tõ tī-tang khiû úa.
 [11] Tī ũ khui-kháu tõ lṳ́ chhiú--thâu siũ lṳ́-tĩ kâi hueh, kù-tshṳ́ lṳ́ pĩ-chiù tõ tī-min;
 [12] kàu-ãu lṳ́ sui-jiên keⁿ-tsoh, tī m̄ kāng lṳ́ tshut-la̍t; lṳ́ tõ-tī-chiēⁿ chiang-àiⁿ liû-lî sit-só.
-[13] Kai-ṳ́n chiũ tùi Iâ-hô-hûa tàⁿ, Uá siũ-hêng kùe-tãng m̄-hó-nãi.
+[13] Kai-ṳ́n chiũ tùi Iâ-hô-hûa tàⁿ, Úa siũ-hêng kùe-tãng m̄-hó-nãi.
 [14] Lṳ́ kim-ji̍t tshông tī kâi mīn-chiēⁿ to̍k úa tshut; úa tie̍h lī lṳ́-mīn-tsôiⁿ ṳ́n-pī; úa tõ tī-chiēⁿ liû-lî sit-só; tì-kàu kìⁿ-nâng ngõ--tie̍h úa, chiũ àiⁿ-suah úa.
 [15] Iâ-hô-hûa chiũ tùi i tàⁿ, Kù-tshṳ́ bô-lũn sĩ-mih-nâng suah Kai-ṳ́n, siũ-hêng pit-tiāⁿ chhit-pũe. Só-íⁿ Iâ-hô-hûa kāng Kai-ṳ́n tsò-hō, mién pun ngõ-tie̍h kâi nâng thâi--i.
 [16] Kái-ṳ́n chiũ lī-khui Iâ-hô-hûa mīn-tsôiⁿ, khṳ̀ Ai-thiên tang-pôiⁿ, Nõ tit kâi tī-hng, khiã-khí.
@@ -224,11 +237,11 @@ Nõ-nâng tõ-gūa-kháu, Kai-ṳ́n chiũ khí-chhiú kong-suah i-kâi
 > 
 > La̍h-me̍k kâi hũ tie̍h-thiaⁿ úa-ūe;
 > 
-> Uá thâi-nâng siêⁿ-hôiⁿ úa-sieⁿ;
+> Úa thâi-nâng siêⁿ-hôiⁿ úa-sieⁿ;
 > 
-> Uá suah-thông pò-èng úa-thiàⁿ;
+> Úa suah-thông pò-èng úa-thiàⁿ;
 > 
-> Uân-khî Kai-ṳ́n kia chhit-pũe hêng;
+> Ûan-khî Kai-ṳ́n kia chhit-pũe hêng;
 > 
 > Ũi-tie̍h La̍h-me̍k chhit-tsa̍p-chhit têng.
 
@@ -289,7 +302,7 @@ Kàu-ãu, nâng tsho-khí heng-sẽng tõ tī-mīn, seⁿ ũ nńg-tsṳ
 <!-- 第 20 页 -->
 [2] Siãng-tì kâi kiáⁿ--pùe chiũ thóiⁿ-tie̍h sì-jîn kâi nńg-tsṳ́ iông-mãu múi-lĩ; chiũ sûi in só-súan tshūa in lâi tsò-chhi.
 
-[3] Iâ-hô-hûa chiũ tàⁿ, Uá-kâi Sîn bô kú-kú tsú-tsái tõ nâng-kâi-sim, in-ũi i iā-sĩ ne̍k-thói--kâi;
+[3] Iâ-hô-hûa chiũ tàⁿ, Úa-kâi Sîn bô kú-kú tsú-tsái tõ nâng-kâi-sim, in-ũi i iā-sĩ ne̍k-thói--kâi;
 <!-- 耶和华就呾，我其神无久久主宰著侬其心，因为伊亦是肉体其。 -->
 nā-sĩ i-kâi nîⁿ-siàu hûan khó-tshûn kàu che̍k-peh jī-tsa̍p-nîⁿ.
 
@@ -320,7 +333,7 @@ in-ũi úa tshàng-tsãu i, húan-tńg siẽⁿ-hùe--liáu.
 [16] Tsûn tie̍h tsò-theng, ti̍t-khí che̍k-chhieh;
 <!-- 第 22 页 -->
 tsûn kâi mn̂g tie̍h tsò-pàng i che̍k-pôiⁿ; tie̍h tsõ-tsò siãng tong hiã, saⁿ-tsâng.
-[17] Uá sái tōa-tsúi tõ-tī, lâi mi̍t-tiāu thiⁿ-ẽ lóng-tsóng ũ-hueh-ne̍k khùi-sip kâi mue̍h;
+[17] Úa sái tōa-tsúi tõ-tī, lâi mi̍t-tiāu thiⁿ-ẽ lóng-tsóng ũ-hueh-ne̍k khùi-sip kâi mue̍h;
 <!-- 注：khùi-sip 疑似 气息。（《菲尔德词典》记载 “消息” 白读为 sie-sit 。） -->
 tī-chiēⁿ kâi mue̍h pit lóng-tsóng sí.
 [18] Nā-sĩ úa kāng-lṳ́ li̍p úa-kâi-ieh; lṳ́ chiũ lâi-ji̍p-tsûn, lṳ́, kah lṳ́-kâi-kiáⁿ, kũa lṳ́-kai-chhi, kũa lṳ́-kiáⁿ kâi chhi, kāng-lṳ́ tsò-che̍k-ē.
@@ -507,6 +520,7 @@ Pìn-tī kâi tûn-im sie-tâng, ūe-gṳ́ che̍k-it.
 <!-- 第 37 页 -->
 [5] Iâ-hô-hûa chiũ kàng-lîm lâi-thóiⁿ nâng kâi tso̍k-lūi só-kiẽn kâi siâⁿ kũa thah.
 [6] Iâ-hô-hûa chiũ tàⁿ, Chí-kâi-mîn sĩ che̍k, lóng-tsóng sĩ che̍k-iēⁿ tûn-gṳ́; khí-thâu ũ chí-kâi tsak-ûi; kàu-ãu i-kâi sim-sṳ̄ bô só-tí-chí.
+<!-- 注：tí-chí 一词常见于现今澄海某地；若结合前述 ka-tshat 等，也许现今部分地方丢失 -m/-p 韵尾比预期中还要更早。 -->
 [7] Nán tie̍h lâi kàng-lîm, tõ-hṳ́-kò hũn-lũan i kâi tûn-gṳ́, sái pí-tshṳ́ kâi ūe-kù m̄-siang-thong.
 [8] Chièⁿ-seⁿ Iâ-hô-hûa tshông tõ-hṳ́-kò sái in sùaⁿ-khui pìn-tī-mīn; i chiũ pã-liáu kiẽn-siâⁿ kâi kang.
 [9] Kù-tshṳ́ hṳ́-kâi-siâⁿ miâⁿ kiè-tsò Pa-pie̍t; in-ũi tõ-hṳ́-kò Iâ-hô-hûa hũn-lũan pìn-tī kâi tûn-gṳ́; Iâ-hô-hûa iā sĩ tshông tõ-hṳ́-kò sái in sùaⁿ-khui pìn-tī-mīn.
@@ -562,6 +576,7 @@ Iâ-hô-hûa tùi A-pek-lân tàⁿ, Lṳ́ tie̍h lī-khui lṳ́-kâi 
 [8] Tshông tõ-hṳ́-kò súa-khui kàu Pek-tek-lĩ tang-pôiⁿ kâi suaⁿ, chiũ nêⁿ pòu-phâng; sai-pôiⁿ sĩ Pek-tek-lĩ, tang-pôiⁿ sĩ Hâi; tõ-hṳ́-kò ũi-tie̍h Iâ-hô-hûa khí-tûaⁿ, u-khiû Iâ-hô-hûa kâi miâⁿ.
 <!-- 第 42 页 -->
 [9] A-pek-lân iũ kiâⁿ, chhiâu-kiâⁿ chhiâu-kṳ̂n nâm-hng khṳ̀.
+<!-- 注：chhiâu...chhiâu... 对应现今汕头市区常用用法。 -->
 
 [10] Tõ hṳ́-kâi-tī ũ ki-hng, A-pek-lân chiũ lo̍h Ai-ki̍p kià-kṳ tõ-hṳ́-kò; in-ũi hṳ́-kâi ki-hng sĩ tãng.
 [11] Kàu chiang-kṳ̃n àiⁿ-ji̍p Ai-ki̍p kâi sî-hāu, chiũ tùi i-kâi-chhi Sat-lài tàⁿ, Taⁿ, úa tsai lṳ́ sĩ múi-mãu kâi hũ-jîn;
@@ -586,6 +601,76 @@ A-pek-lân chiũ tshut Ai-ki̍p chiẽⁿ--khṳ̀, kũa i-kâi-chhi, kũa 
 [4] sĩ i tsá kiẽn-tûaⁿ kâi tī-hng; A-pek-lân tõ-hṳ́-kò u-khiû Iâ-hô-hûa kâi miâⁿ.
 
 <!-- 第 44 页 -->
+[5] Kũa Lô-tit, chiũ-sĩ kāng A-pek-lân tâng-kiâⁿ--kâi, i iā-ũ gû-iêⁿ kàu-khûn, kũa pòu-phâng.
+[6] Tī-hng iông-m̄-kàu in nõ-nâng tsò-che̍k-ē khiã-khí; in-ũi in-kâi tshâi-mue̍h tsōi, tì-kàu put-lêng tsò-che̍k-ē khiã-khí.
+[7] Kāng A-pek-lân chiéⁿ cheng-seⁿ kâi nâng, kũa kāng Lô-tit chiéⁿ cheng-seⁿ--kâi, chiũ sie-cheⁿ; tng-sî Ka-nâm tso̍k kũa Pí-lí-sí tso̍k khiã-khí tõ hṳ́-kâi tī-hng.
+[8] A-pek-lân chiũ tùi Lô-tit tàⁿ, Lṳ́-úa chhiáⁿ mài sie-cheⁿ, kũa kāng lṳ́-úa chiéⁿ cheng-seⁿ kâi nâng iā mài sie-cheⁿ; in-ũi nán sĩ hiaⁿ-tĩ.
+[9] Tī khá m̄-sĩ tsn̂g-kâi tõ lṳ́ mīn-tsôiⁿ? lṳ́ chhiáⁿ lī-khui úa; lṳ́ iā-sĩ khṳ̀ tsó-pôiⁿ, úa chiũ khṳ̀ iũ-pôiⁿ; lṳ́ iā-sĩ khṳ̀ iũ-pôiⁿ, úa chiũ khṳ̀ tsó-pôiⁿ.
+
+[10] Lô-tit kṳ́-ma̍k, chiũ mōⁿ-kìⁿ Iak-tãn tshûan pêⁿ-pou, thàng-kàu Só-zṳ́, tsn̂g-kâi sĩ zũn-che̍k, tõ Iâ-hô-hûa būe-chêng mi̍t-tiāu Só-to-má kũa Ngô-mô-la̍h tsṳ-soiⁿ, sĩ chhin-chhiẽⁿ Iâ-hô-hûa kâi hn̂g, chhin-chhiẽⁿ Ai-ki̍p kâi tī-thóu.
+<!-- 第 45 页 -->
+[11] Lô-tit chiũ súan Iak-tãn tshûan pêⁿ-pou; Lô-tit tùi tang-pôiⁿ chiũ kiâⁿ; nõ-nâng jī-ke chiũ pie̍t-khui.
+[12] A-pek-lân khiã-khí Ka-nâm kâi tī-hng, Lô-tit khiã-khí pêⁿ-pou tsùaⁿ-kâi siâⁿ-ip, súa pòu-phâng chì-kàu Só-to-má.
+[13] Tãn-sĩ Só-to-má nâng sĩ ak, hũam-tsũe nge̍k Iâ-hô-hûa chì-ke̍k.
+
+[14] Lô-tit lī-pie̍t tsṳ-ãu, Iâ-hô-hûa tùi A-pek-lân tàⁿ, Taⁿ, lṳ́ tie̍h tièⁿ-phû-ma̍k, tshông lṳ́ só-khiã--kò mōⁿ-kàu tang-sai nâm-pak;
+[15] in-ũi só thóiⁿ-kìⁿ kâi tī-hng, úa àiⁿ tsn̂g-kâi sṳ̀-pun lṳ́, kũa lṳ́-kâi chéng-tsa̍k chì-kàu ióng-sì.
+[16] Úa chiũ sái lṳ́-kâi chéng-tsa̍k chhin-chhiẽⁿ tī kâi sua-êng; zû-jia̍k nâng õi kòi-sǹg tī kâi sua-êng kâi siàu, lṳ́-kâi chéng-tsa̍k iā chiũ hó kòi-sǹg.
+<!-- 第 46 页 -->
+[17] Tie̍h-khí--lâi, pìn-kiâⁿ chí-kâi-tī kâi hûeⁿ-ti̍t; in-ũi úa àiⁿ tsang chí-kâi sṳ̀-pun lṳ́.
+
+[18] A-pek-lân chiũ súa pòu-phâng, lâi khiã-khí Mũan-lí kâi siãng-chhiū-lîm, chiũ-sĩ tõ Hi-pek-lûn, kũa tõ-hṳ́-kò ũi-tie̍h Iâ-hô-hûa khí-tûaⁿ.
+
+## 14
+
+Ki̍p-kàu Si-ná ûang Àm-la-hui, Íⁿ-la̍h-sat ûang A-lia̍k, Í-lân ûang Ki-tã-láu-má, lie̍t-pang ûang Thî-ta̍t, kâi sî-hāu;
+[2] chí chiàⁿ-kâi ûang kāng Só-to-má ûang Pì-la, Ngô-mô-la̍h ûang Pì-sa, Ap-má ûang Si-na̍p, Si-pien ûang Sī-mí-pie̍t, kũa Pì-la̍h (iũ miâⁿ Só-zṳ́) kâi ûang, kau-chièn.
+[3] Chí-kâi lóng-tsóng hũe-ha̍h tõ Si-têng kâi suaⁿ-kok (chí-kâi chiũ-sĩ Iâm-hái).
+[4] Sũn-ho̍k Ki-tã-láu-má ũ tsa̍p-jī nîⁿ kú, tõiⁿ tsa̍p-saⁿ-nîⁿ chiũ húan-pũan.
+[5] Tõiⁿ tsa̍p-sì-nîⁿ Ki-tã-láu-má, kũa tâng-mêng tsùaⁿ-kâi-ûang, lâi-kong-khek Lí-hua̍t-im nâng tõ A-thî-lu̍t Ka-lêng, kũa Su-si nâng tõ Hap-me̍k, kũa Íⁿ-mí nâng tõ Sa-mî Ki-lie̍t-têng,
+<!-- 第 47 页 -->
+[6] kũa Hô-lí nãng tõ in-kâi Si-zṳ́ suaⁿ, chì-kàu Zṳ́-pa-lân, kṳ̃n tõ khùang-iá.
+[7] Chiũ kui-tńg kàu An-mi̍t-pat (chiũ-sĩ Ka-thiet), chiũ kong-khek A-má-le̍k pìn-tī, kũa khiã-khí Hap-sí-sùn Tã-má kâi A-mô-lí nâng.
+
+[8] Chiũ ũ Só-to-má ûang, Ngô-mô-la̍h ûang, Ap-má ûang, Si-pien ûang, kũa Pì-la̍h ûang (Pì-la̍h chiũ-sĩ Só-zṳ́), tshut--khṳ̀; kāng-in kau-chièn tõ Si-têng kâi suaⁿ-kok;
+[9] chiũ-sĩ chièn Íⁿ-lân ûang Ki-tã-láu-má, lie̍t-pang ûang Thî-ta̍t, Si-ná ûang Àm-la-hui, Íⁿ-la̍h-sat ûang A-lia̍k; sì-kâi-ûang te̍k hṳ́ ngõu-kâi-ûang.
+[10] Si-têng kâi suaⁿ-kok tsn̂g-kâi sĩ chie̍h-iû-kheⁿ; Só-to-má kũa Ngô-mô-la̍h kâi ûang pāi-tsáu, kàu hṳ́-kò chiũ pua̍h-lo̍h, só-tshûn kâi nâng chiũ tsáu tõ suaⁿ--kò.
+[11] I chiũ chhiéⁿ Só-to-má Ngô-mô-la̍h che̍k-khài kâi tshâi-mue̍h, kũa hûam só-ũ kâi bí-niêⁿ, chiũ khṳ̀.
+[12] Iũ lia̍h Lô-tit, chiũ-sĩ A-pek-lân hiaⁿ-tĩ kâi kiáⁿ, sĩ khiã-khí Só-to-má, kũa chhiéⁿ i-kâi tshâi-mue̍h, chiũ khṳ̀.
+
+[13] Ũ che̍k-kâi tô-tsáu kâi nâng lâi pò-tsai Hi-pek-lâi nâng A-pek-lân; i chiũ-sĩ khiã-khí tõ A-mô-lí nâng Mũan-lí kâi siãng-chhiū-lîm, Mũan-lí sĩ Íⁿ-si̍t-kok kũa A-nái kâi hiaⁿ-tĩ; in chiàⁿ-kâi kāng A-pek-lân ũ mêng-ieh.
+[14] A-pek-lân thiaⁿ-tsai i-kâi-tie̍t pĩ-nâng-lia̍h, chiũ tùa i tshù-lãi só-seⁿ, ũ liēn--kùe kâi po̍k, saⁿ-peh it-tsa̍p-poih nâng, chiũ jiāu kàu Tãn.
+[15] A-pek-lân kũa i-kâi-po̍k chiũ sêng-mê pun-khui lâi-phah in, chiũ kong-khek in, iũ jiāu kàu Hô-pa, chiũ-sĩ tõ Tã-má-sek tsó-pôiⁿ.
+[16] Iā chhiéⁿ-tńg che̍k-khai kâi tshâi-mue̍h, kũa i-kâi-tie̍t Lô-tit, kũa i-kâi tshâi-mue̍h, kũa hũ-nńg, kũa chèng peh-sèⁿ.
+
+[17] A-pek-lân phah-phùa Ki-tã-láu-má kũa kāng-i tâng-lâi chiàⁿ-kâi-ûang, tńg--lâi, ãu, Só-to-má ûang tshut--khṳ̀ ngêng i tõ Sa-mî kâi suaⁿ-kok (chiũ-sĩ Ûang kâi suaⁿ-kok).
+[18] Sat-léng ûang Me̍k-ki-sí-tek khie̍h-piáⁿ kũa chiú tshut--lâi; i chiũ-sĩ Chì-kau Siãng-tì kâi chì-si.
+[19] Chiũ kāng-i tsok-hok, tàⁿ, Ngũan A-pek-lân tit--tie̍h ũ-thiⁿ-tī tsṳ Chì-kau Siãng-tì sṳ̀-hok;
+[20] iũ ngũan Chì-kau Siãng-tì tit tsàn-múi, in-ũi chiang lṳ́-kâi chhiû-te̍k hù-thoh lṳ́-chhiú. Chiũ chiang che̍k-khài tshâi-mue̍h, tsa̍p-hūn tsṳ che̍k, hièn-na̍p khṳt i.
+
+[21] Só-to-má ûang chiũ tùi A-pek-lân tàⁿ, Nâng-siàu hôiⁿ-úa, tshâi-mue̍h lṳ́ siu.
+[22] A-pek-lân chiũ tùi Só-to-má ûang tàⁿ, Úa tùi Iâ-hô-hûa, ũ-thiⁿ-tī tsṳ Chì-kau Siãng-tì, kṳ́-chhiú lâi-huat-sī, tàⁿ,
+[23] Liên-kũa che̍k-tiâu-sùaⁿ, íⁿ-ki̍p che̍k-tiâu ôi-tùa, chiũ-sĩ hûam lṳ́ só-ũ--kâi, úa m̃-siu che̍k-kiãⁿ, mài khṳt lṳ́ tàⁿ, Sĩ úa sái A-pek-lân pù;
+[24] tuaⁿ-tuaⁿ siàu-nîⁿ--húe só-chia̍h, kũa kāng-úa tâng-kiâⁿ kâi A-nái, Íⁿ-si̍t-kok, Mũan-lí, hūn-lãi--kâi, in chiũ hó-siu.
+
+## 15
+
+Chí chiàⁿ-kâi-sṳ̄ tsṳ-ãu, Iâ-hô-hûa tõ ĩ-siãng--tang huat-ngân, kāng A-pek-lân tàⁿ, A-pek-lân, mài-kiaⁿ; úa tsò lṳ́-kâi pó-sin-pâi, kũa lṳ́ chì-tūa kâi pò-siéⁿ.
+[2] A-pek-lân chiũ tàⁿ, Tsú Iâ-hô-hûa, lṳ́ àiⁿ-sṳ̀ úa tî-kâi, in-ũi úa khṳ̀-sì bô-kiáⁿ, kúan úa-kâi-ngia̍p sĩ chí-kâi Tã-má-sek Íⁿ-lĩ-a-sat?
+[3] A-pek-lân iũ tàⁿ, Āi! lṳ́ m̄-chêng sṳ̀-úa ũ chéng-tsa̍k; khak-sĩ úa che̍k-kâi ke-jîn tsò úa-kâi ãu-sṳ̂.
+<!-- 注：khak-sĩ 可能是现今汕头等地表示疑问之词 “khah-sĩ” 的源头。 -->
+[4] Tãn-sĩ Iâ-hô-hûa huat-ngân, kāng i tàⁿ, Chí-kâi-nâng pit bô tsò lṳ́-kâi ãu-sṳ̂; zûi-sĩ tshut lṳ́-pńg-sin seⁿ--kâi, i pit tsò lṳ́ kâi ãu-sṳ̂.
+<!-- 第 51 页 -->
+[5] Chiũ sái i tshut-khṳ̀-kháu, iũ tàⁿ, Taⁿ, lṳ́ kṳ́-ma̍k mōⁿ thiⁿ, siàu-chheⁿ, õi siàu-tit-liáu--mé? iũ kāng-i tàⁿ, Chiang-lâi lṳ́-kâi chéng-tsa̍k iā-sĩ chièⁿ-seⁿ.
+[6] I chiũ sìn Iâ-hô-hûa; chí-kâi chiũ sǹg-tsò i-kâi-ngĩ.
+<!--
+录入范围：	扉页；第 1-50 页。
+录入者：	Anthony Lee (Hái-suaⁿ lău Lí)
+工具：		Visual Studio Code (UTF-8) 1.69；EIME (TieChiuPUJ) 0.1.12；自编替换脚本。
+初衷：		了解基督教圣经潮州白话字译本中地名、人名译音及拼写规则等。
+完成情况：	100%；所有字词在录入后，对应原书编排节码时，录入者均自我校对一次。
+与原书差异：	-ua- 及 -ue- 时，调符均统一标注于 u 处；原书或标注于 u 处，或标注于 a/e 处；书中所有 “:” 符号均采用 “;” 代替。
+-->
 
 
 
