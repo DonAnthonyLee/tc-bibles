@@ -305,6 +305,7 @@ Kàu-ãu, nâng tsho-khí heng-sẽng tõ tī-mīn, seⁿ ũ nńg-tsṳ
 [3] Iâ-hô-hûa chiũ tàⁿ, Úa-kâi Sîn bô kú-kú tsú-tsái tõ nâng-kâi-sim, in-ũi i iā-sĩ ne̍k-thói--kâi;
 <!-- 耶和华就呾，我其神无久久主宰著侬其心，因为伊亦是肉体其。 -->
 nā-sĩ i-kâi nîⁿ-siàu hûan khó-tshûn kàu che̍k-peh jī-tsa̍p-nîⁿ.
+<!-- 注：上句中 “nā-sĩ” 对应英文版为 yet，词义用同 6.8 。-->
 
 [4] Hṳ́-kâi sî-hāu ũ kûiⁿ-tōa kâi-lâm-tsṳ́ tõ tī-chiēⁿ, liáu-ãu Siãng-tì kâi kiáⁿ--pùe ji̍p--khṳ̀ kāng sì-jîn kâi nńg-tsṳ́ tâng-pâng, in chiũ kāng in seⁿ-kiáⁿ; chí-kâi sĩ kóu-tsá tshut-miâⁿ kâi hó-hàn.
 
@@ -318,9 +319,10 @@ in-ũi úa tshàng-tsãu i, húan-tńg siẽⁿ-hùe--liáu.
 <!-- 第 21 页 -->
 [8] Nā-sĩ Nô-a tõ Ia-hô-hûa mīn-tsõiⁿ tit-ṳn.
 <!-- 注：上句似未写完，前述亦有若干句有此情况，也许需要比照原文。 -->
+<!-- 再注：英文版对应 Nā-sĩ 为 But，但此词现今无此词义。 -->
 
-[9] Chí-ẽ chiũ-sĩ Nô-a kâi sì-hĩ. Nô-a sĩ ngĩ-jîn, tshú-sì sĩ ûan-tshûan;
-[10] Nô-a kāng Siãng-tì tâng-kiâⁿ. Nô-a seⁿ saⁿ-kâi-kiáⁿ, Siám, Hâm, Iá-hut.
+[9] Chí-ẽ chiũ-sĩ Nô-a kâi sì-hĩ. Nô-a sĩ ngĩ-jîn, tshú-sì sĩ ûan-tshûan; Nô-a kāng Siãng-tì tâng-kiâⁿ.
+[10] Nô-a seⁿ saⁿ-kâi-kiáⁿ, Siám, Hâm, Iá-hut.
 [11] Tng-sî tõ Siãng-tì mīn-tsôiⁿ sì-kài thue-hùi, pìn-sì pãu-ngia̍k.
 <!-- 当时著上帝面前世界颓废，遍世暴虐。 -->
 [12] Siãng-tì tshat-thóiⁿ sì-kài, kì-sĩ thue-hùi; in-ũi sì-chiēⁿ chèng-nâng só-kiâⁿ sĩ siâ-phiah.
@@ -338,6 +340,7 @@ tsûn kâi mn̂g tie̍h tsò-pàng i che̍k-pôiⁿ; tie̍h tsõ-tsò sia
 tī-chiēⁿ kâi mue̍h pit lóng-tsóng sí.
 [18] Nā-sĩ úa kāng-lṳ́ li̍p úa-kâi-ieh; lṳ́ chiũ lâi-ji̍p-tsûn, lṳ́, kah lṳ́-kâi-kiáⁿ, kũa lṳ́-kai-chhi, kũa lṳ́-kiáⁿ kâi chhi, kāng-lṳ́ tsò-che̍k-ē.
 [19] Lṳ́ iā tie̍h chiang kak-iēⁿ ũ hueh-ne̍k kâi ua̍h-mue̍h che̍k-tùi che̍k-tùi, tshūa-i ji̍p-tsûn, pêⁿ-tâng kāng-lṳ́ pó-tshûn seⁿ-miāⁿ; pit-tie̍h kang kũa bó kàu-tùi.
+<!-- 注：上句中 “Nā-sĩ” 对应英文版为 But，同 6.8。 -->
 [20] Pue-chiáu tshông-khî-lūi, cheng-seⁿ tshông-khî-lūi, tī-chiēⁿ õi-pê kâi mue̍h tshông-khî-lūi, kak-kak chiâⁿ-tùi lâi-chiũ-kṳ̃n lṳ́, khṳt-lṳ́ pó-tshûn--i.
 [21] Lṳ́ iā tie̍h chiang kak-iēⁿ só-chia̍h kâi mue̍h, lâi-chek-thiok tõ--lṳ́-kò; pun lṳ́ kũa ua̍h-mue̍h tsò-chia̍h.
 [22] Nô-a chiũ chièⁿ-seⁿ-kiâⁿ; lóng-tsóng chiè Siãng-tì só-mẽng i, chiũ khṳ̀-tsò.
@@ -427,6 +430,7 @@ Siãng-tì chiũ hṳ́-ho̍k pun Nô-a kũa i chèng-kiáⁿ, tùi in t
 
 [8] Siãng-tì chiũ tùi Nô-a, kũa tùi i chèng-kiáⁿ tsò-che̍k-ē, tàⁿ,
 [9] Nā-sĩ úa chí-hûe kāng-nín, kũa kāng nín sin-ãu kâi chéng-tsa̍k, li̍p úa-kâi-ieh.
+<!-- 注：上句中 “Nā-sĩ” 对应英文版为 And，若结合 6.8 及 6.18，似乎用同 huân-liáu 。 -->
 [10] Kũa kāng kak-iēⁿ kāng-nín tsò-pû kâi ua̍h-mue̍h, ho̍k-sĩ pue-chiáu, ho̍k-sĩ cheng-seⁿ, kũa hûam tī--chiēⁿ kâi siù-thiok kāng nín tsò-che̍k-ē; che̍k-chhiet tõ-tsûn--kò tshut-lâi, íⁿ-ki̍p le̍k-tī lóng-tsóng siù-thiok.
 [11] Úa chiũ kāng-nín li̍p úa-kâi-ieh; íⁿ-ãu hûam ũ hueh-ne̍k kâi mue̍h bô tsài pun tōa-tsúi mi̍t-tiāu; iā bô tōa-tsúi tsài húiⁿ-tiāu tī.
 [12] Siãng-tì iũ tàⁿ, úa sṳ̀-pun tiāⁿ-ieh tõ úa kũa nín tang, íⁿ-ki̍p kāng-nín tsò-pû kak-iēⁿ ua̍h-mue̍h, chì-kàu ióng-sì;
