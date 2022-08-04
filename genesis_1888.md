@@ -116,6 +116,7 @@ Thiⁿ kũa tī kũa i kâi khûn-lūi chiũ tsò-chiâⁿ.
 <!-- 第 6 页 -->
 [4] Iâ-hô-hûa Siãng-tì tsõ thiⁿ kũa tī kâi sî-hāu, i siũ-tsãu kâi ngûan-iû chiũ-sĩ chièⁿ-seⁿ.
 <!-- 注：上句中 tsõ 疑为印刷错误，估计为 tsò 。（再注：可能当时真的读 tsõ，见后续用法。） -->
+<!-- 结合《潮汕十五音》，确定 “tsõ” 为 “造” 旧文读音。 -->
 [5] Tī-chiēⁿ būe-ũ kak-iēⁿ iá-tsháu, kak-iēⁿ kâi tshài-so iā būe-ũ-huat; in-ũi Iâ-hô-hûa Siãng-tì bô lo̍h-hõu tõ tī-mīn, pẽng bô-nâng keⁿ-tsoh;
 [6] chiũ ũ bū tshông-tī khí, lâi zũn-che̍k múaⁿ-pìn thôu-mīn.
 
@@ -331,7 +332,7 @@ in-ũi úa tshàng-tsãu i, húan-tńg siẽⁿ-hùe--liáu.
 [14] Lṳ́ hó chiang pek-chhiū-tshâ tsõ-tsûn; tsûn-sin tsò pâng-koiⁿ, lãi-gūa kôu le̍h-chheⁿ.
 [15] Lṳ́ tie̍h àn-chièⁿ-seⁿ tsõ; tsûn tn̂g--sì saⁿ-tsa̍p-tñg, khuah ngõu-tñg, kûiⁿ saⁿ-tñg.
 <!-- 汝着按障生做，船长势三十丈，阔五丈，悬三丈。 -->
-<!-- 注：至此，可确定 “做” 当时文读音有读 tsõ；若结合现今众多白读音阴去（或按韵书为阴去读法）而文读音读为阳上的情况来看，此音属正常现象。 -->
+<!-- 结合《潮汕十五音》，确定 “tsõ” 为 “造” 旧文读音。 -->
 [16] Tsûn tie̍h tsò-theng, ti̍t-khí che̍k-chhieh;
 <!-- 第 22 页 -->
 tsûn kâi mn̂g tie̍h tsò-pàng i che̍k-pôiⁿ; tie̍h tsõ-tsò siãng tong hiã, saⁿ-tsâng.
